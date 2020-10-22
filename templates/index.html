@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+</head>
+
+<body>
+ <div class="login">
+	<h1>Cricket Analysis</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+
+
+
+	<div class="form-group">
+	<select class="form-control" id="pred_type" name="pred_type" placeholder="Select action" required="required" >
+		<option value="" default>-- Select --</option>
+		<option value="bat">Bat</option>
+		<option value="bowl">Bowl</option>
+    <option value="all rounder">All Rounder</option>
+	</select>
+	</div>
+
+	<div class="form-group">
+
+		<select class="form-control" id="Ground" name="Ground" placeholder="Ground" required="required" >
+			<option value="" default>-- Select Ground --</option>
+			<option value="Trinidad">Trinidad</option>
+			<option value="Chandigarh">Chandigarh</option>
+      <option value="Delhi">Delhi</option>
+      <option value="Edgbaston">Edgbaston</option>
+      <option value="Headingley">Headingley</option>
+      <option value="Hyderabad">Hyderabad</option>
+      <option value="Mclean Park">Mclean Park</option>
+      <option value="Old Trafford">Old Trafford</option>
+      <option value="Ranchi">Ranchi</option>
+      <option value="Seddon Park">Seddon Park</option>
+      <option value="Southampton">Southampton</option>
+      <option value="The Oval">The Oval</option>
+      <option value="Vidharbha">Vidharbha</option>
+      <option value="Wellington">Wellington</option>
+
+		</select>
+	</div>
+
+	<div class="form-group">
+
+	<select class="form-control" id="Pitch" name="Pitch" placeholder="Pitch" required="required" >
+		<option value="" default>-- Select Pitch --</option>
+		<option value="Batting">Batting</option>
+		<option value="Bounce and Pace">Bounce and Pace</option>
+		<option value="Bowling">Bowling</option>
+		<option value="Pace and Bounce">Pace and Bounce</option>
+		<option value="Slow">Slow</option>
+		<option value="Slow and Low">Slow and Low</option>
+		<option value="Swinging">Swinging</option>
+	</select>
+	</div>
+
+
+
+	<div class="form-group">
+
+		<input class="form-control" type="text" name="Opponent" id="Opponent" placeholder="Opponent" required="required" />
+	</div>
+
+	<div class="form-group">
+
+	<select class="form-control" id="Weather" name="Weather" placeholder="Weather" required="required" >
+		<option value="" default>-- Select Weather--</option>
+		<option value="Cold">Cold</option>
+		<option value="Hot and humid">Hot and humid</option>
+	</select>
+	</div>
+
+
+    <div class="form-group">
+
+    <select class="form-control" id="Home Away" name="Home Away">
+		<option value="" default>-- Select side--</option>
+      <option value="Home">Home</option>
+      <option value="Away">Away</option>
+    </select>
+	</div>
+
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+ </div>
+
+
+</body>
+</html>

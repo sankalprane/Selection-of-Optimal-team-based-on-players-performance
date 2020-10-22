@@ -1,0 +1,606 @@
+Sr.No.,Position,Name,Matches Played,Runs,Fours,Sixes,Strike Rate,Ground,Home Away,Result,50s,100s,Overall Average,Pitch,Opponent,Weather
+1,1,RG Sharma,218,18,2,0,52.9,Trinidad,Away,1,42,27,48.53,Slow,West Indies,Hot and humid
+2,2,S Dhawan,133,2,0,0,66.7,Trinidad,Away,0,27,17,44.5,Slow,West Indies,Hot and humid
+3,3,V Kohli,239,120,14,1,96,Trinidad,Away,5,54,43,60.31,Slow,West Indies,Hot and humid
+4,4,RR Pant,12,20,2,0,57.1,Trinidad,Away,1,0,0,22.9,Slow,West Indies,Hot and humid
+5,5,SS Iyer,9,71,5,1,104.4,Trinidad,Away,4,4,0,49.43,Slow,West Indies,Hot and humid
+6,6,KM Jadhav,68,16,2,0,114.3,Trinidad,Away,1,6,2,42.97,Slow,West Indies,Hot and humid
+7,7,RA Jadeja,156,16,1,0,100,Trinidad,Away,1,11,0,30.84,Slow,West Indies,Hot and humid
+8,8,B Kumar,114,1,0,0,50,Trinidad,Away,0,1,0,14.22,Slow,West Indies,Hot and humid
+9,9,M Shami,70,3,0,0,60,Trinidad,Away,0,0,0,7.56,Slow,West Indies,Hot and humid
+10,10,KK Ahmed,11,0,0,0,0,Trinidad,Away,0,0,0,4.5,Slow,West Indies,Hot and humid
+11,11,YS Chahal,50,0,0,0,0,Trinidad,Away,0,0,0,7.8,Slow,West Indies,Hot and humid
+12,1,RG Sharma,218,10,2,0,166.7,Trinidad,Away,1,42,27,48.53,Slow,West Indies,Hot and humid
+13,2,S Dhawan,133,36,5,0,100,Trinidad,Away,2,27,17,44.5,Slow,West Indies,Hot and humid
+14,3,V Kohli,239,115,14,0,115.2,Trinidad,Away,5,54,43,60.31,Slow,West Indies,Hot and humid
+15,4,RR Pant,12,0,0,0,0,Trinidad,Away,0,0,0,22.9,Slow,West Indies,Hot and humid
+16,5,SS Iyer,9,65,3,5,158.5,Trinidad,Away,3,4,0,49.43,Slow,West Indies,Hot and humid
+17,6,KM Jadhav,68,19,1,1,158.3,Trinidad,Away,1,6,2,42.97,Slow,West Indies,Hot and humid
+18,7,RA Jadeja,156,0,0,0,0,Trinidad,Away,0,11,0,30.84,Slow,West Indies,Hot and humid
+19,8,B Kumar,114,0,0,0,0,Trinidad,Away,0,1,0,14.22,Slow,West Indies,Hot and humid
+20,9,M Shami,70,0,0,0,0,Trinidad,Away,0,0,0,7.56,Slow,West Indies,Hot and humid
+21,10,KK Ahmed,11,0,0,0,0,Trinidad,Away,0,0,0,4.5,Slow,West Indies,Hot and humid
+22,11,YS Chahal,50,0,0,0,0,Trinidad,Away,0,0,0,7.8,Slow,West Indies,Hot and humid
+23,1,S Dhawan,133,8,1,0,66.67,Southampton,Away,0,27,17,44.5,Batting,South Africa,Cold
+24,2,RG Sharma,218,122,13,2,84.72,Southampton,Away,5,42,27,48.53,Batting,South Africa,Cold
+25,3,V Kohli,239,18,1,0,52.94,Southampton,Away,1,54,43,60.31,Batting,South Africa,Cold
+26,4,KL Rahul,23,26,2,0,61.9,Southampton,Away,1,4,2,43.32,Batting,South Africa,Cold
+27,5,MS Dhoni,350,34,2,0,73.91,Southampton,Away,2,73,10,50.42,Batting,South Africa,Cold
+28,6,H Pandya,54,15,3,0,214.29,Southampton,Away,1,4,0,34.53,Batting,South Africa,Cold
+29,7,KM Jadhav,68,0,0,0,0,Southampton,Away,0,6,2,42.97,Batting,South Africa,Cold
+30,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,South Africa,Cold
+31,9,K Yadav,70,0,0,0,0,Southampton,Away,0,0,0,6.13,Batting,South Africa,Cold
+32,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,South Africa,Cold
+33,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,South Africa,Cold
+34,1,S Dhawan,133,117,16,0,107.34,The Oval,Away,5,27,17,44.5,Bounce and Pace,Sri Lanka,Cold
+35,2,RG Sharma,218,57,3,1,81.43,The Oval,Away,3,42,27,48.53,Bounce and Pace,Sri Lanka,Cold
+36,3,V Kohli,239,82,4,2,106.49,The Oval,Away,4,54,43,60.31,Bounce and Pace,Sri Lanka,Cold
+37,4,KL Rahul,23,11,1,1,366.67,The Oval,Away,1,4,2,43.32,Bounce and Pace,Sri Lanka,Cold
+38,5,MS Dhoni,350,27,3,1,192.86,The Oval,Away,1,73,10,50.42,Bounce and Pace,Sri Lanka,Cold
+39,6,H Pandya,54,48,4,3,177.78,The Oval,Away,2,4,0,34.53,Bounce and Pace,Sri Lanka,Cold
+40,7,KM Jadhav,68,0,0,0,0,The Oval,Away,0,6,2,42.97,Bounce and Pace,Sri Lanka,Cold
+41,8,B Kumar,114,0,0,0,0,The Oval,Away,0,1,0,14.22,Bounce and Pace,Sri Lanka,Cold
+42,9,K Yadav,70,0,0,0,0,The Oval,Away,0,0,0,6.13,Bounce and Pace,Sri Lanka,Cold
+43,10,YS Chahal,50,0,0,0,0,The Oval,Away,0,0,0,7.8,Bounce and Pace,Sri Lanka,Cold
+44,11,J Bumrah,58,0,0,0,0,The Oval,Away,0,0,0,4.3,Bounce and Pace,Sri Lanka,Cold
+45,1,V Shankar,12,15,1,0,100,Old Trafford,Away,1,0,0,44.5,Bowling,Australia,Cold
+46,2,RG Sharma,218,140,14,3,123.89,Old Trafford,Away,5,42,27,48.53,Bowling,Australia,Cold
+47,3,V Kohli,239,77,7,0,118.46,Old Trafford,Away,4,54,43,60.31,Bowling,Australia,Cold
+48,4,KL Rahul,23,57,3,2,73.08,Old Trafford,Away,3,4,2,43.32,Bowling,Australia,Cold
+49,5,MS Dhoni,350,1,0,0,50,Old Trafford,Away,0,73,10,50.42,Bowling,Australia,Cold
+50,6,H Pandya,54,26,2,1,136.84,Old Trafford,Away,1,4,0,34.53,Bowling,Australia,Cold
+51,7,KM Jadhav,68,9,1,0,112.5,Old Trafford,Away,0,6,2,42.97,Bowling,Australia,Cold
+52,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,Australia,Cold
+53,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,Australia,Cold
+54,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,Australia,Cold
+55,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,Australia,Cold
+56,1,V Shankar,12,29,2,0,70.73,Southampton,Away,1,0,0,44.5,Batting,West Indies,Cold
+57,2,RG Sharma,218,1,0,0,10,Southampton,Away,0,42,27,48.53,Batting,West Indies,Cold
+58,3,V Kohli,239,67,5,0,106.39,Southampton,Away,3,54,43,60.31,Batting,West Indies,Cold
+59,4,KL Rahul,23,30,2,0,56,Southampton,Away,1,4,2,43.32,Batting,West Indies,Cold
+60,5,MS Dhoni,350,28,3,0,53.87,Southampton,Away,1,73,10,50.42,Batting,West Indies,Cold
+61,6,H Pandya,54,7,0,0,77.78,Southampton,Away,0,4,0,34.53,Batting,West Indies,Cold
+62,7,KM Jadhav,68,52,3,1,76,Southampton,Away,3,6,2,42.97,Batting,West Indies,Cold
+63,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,West Indies,Cold
+64,9,K Yadav,70,1,0,0,100,Southampton,Away,0,0,0,6.13,Batting,West Indies,Cold
+65,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,West Indies,Cold
+66,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,West Indies,Cold
+67,1,V Shankar,12,14,3,0,73.68,Old Trafford,Away,1,0,0,44.5,Bowling,England,Cold
+68,2,RG Sharma,218,18,1,1,78.26,Old Trafford,Away,1,42,27,48.53,Bowling,England,Cold
+69,3,V Kohli,239,72,8,0,87.29,Old Trafford,Away,4,54,43,60.31,Bowling,England,Cold
+70,4,KLRahul,23,48,6,0,75.23,Old Trafford,Away,2,4,2,43.32,Bowling,England,Cold
+71,5,MS Dhoni,350,56,3,2,91.76,Old Trafford,Away,3,73,10,50.42,Bowling,England,Cold
+72,6,H Pandya,54,46,5,0,121.3,Old Trafford,Away,2,4,0,34.53,Bowling,England,Cold
+73,7,KM Jadhav,68,7,1,0,70,Old Trafford,Away,0,6,2,42.97,Bowling,England,Cold
+74,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,England,Cold
+75,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,England,Cold
+76,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,England,Cold
+77,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,England,Cold
+78,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,1,0,0,37.55,Bowling,Afghanistan,Cold
+79,2,RG Sharma,218,102,15,0,93.67,Edgbaston,Away,5,42,27,48.53,Bowling,Afghanistan,Cold
+80,3,V Kohli,239,66,7,0,86.34,Edgbaston,Away,3,54,43,60.31,Bowling,Afghanistan,Cold
+81,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,2,43.32,Bowling,Afghanistan,Cold
+82,5,MS Dhoni,350,42,4,1,135.48,Edgbaston,Away,2,73,10,50.42,Bowling,Afghanistan,Cold
+83,6,H Pandya,54,45,4,0,136.35,Edgbaston,Away,2,4,0,34.53,Bowling,Afghanistan,Cold
+84,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,Afghanistan,Cold
+85,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,Afghanistan,Cold
+86,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,Afghanistan,Cold
+87,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,Afghanistan,Cold
+88,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,Afghanistan,Cold
+89,1,RR Pant,12,48,6,1,117.01,Edgbaston,Away,2,0,0,37.55,Bowling,Bangladesh,Cold
+90,2,RG Sharma,218,104,7,5,113.04,Edgbaston,Away,5,42,27,48.53,Bowling,Bangladesh,Cold
+91,3,V Kohli,239,26,3,0,96.3,Edgbaston,Away,1,54,43,60.31,Bowling,Bangladesh,Cold
+92,4,KL Rahul,23,77,6,1,83.7,Edgbaston,Away,4,4,2,43.32,Bowling,Bangladesh,Cold
+93,5,MS Dhoni,350,35,4,0,106.06,Edgbaston,Away,2,73,10,50.42,Bowling,Bangladesh,Cold
+94,6,H Pandya,54,0,0,0,0,Edgbaston,Away,0,4,0,34.53,Bowling,Bangladesh,Cold
+95,7,KM Jadhav,68,8,1,0,88.89,Edgbaston,Away,0,6,2,42.97,Bowling,Bangladesh,Cold
+96,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,Bangladesh,Cold
+97,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,Bangladesh,Cold
+98,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,Bangladesh,Cold
+99,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,Bangladesh,Cold
+100,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,1,0,0,37.55,Bowling,New zealand,Cold
+101,2,RG Sharma,218,102,15,0,93.58,Edgbaston,Away,5,42,27,48.53,Bowling,New zealand,Cold
+102,3,V Kohli,239,66,7,0,86.84,Edgbaston,Away,3,54,43,60.31,Bowling,New zealand,Cold
+103,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,2,43.32,Bowling,New zealand,Cold
+104,5,MS Dhoni,350,42,4,1,135.8,Edgbaston,Away,2,73,10,50.42,Bowling,New zealand,Cold
+105,6,H Pandya,54,45,4,0,136.36,Edgbaston,Away,2,4,0,34.53,Bowling,New zealand,Cold
+106,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,New zealand,Cold
+107,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,New zealand,Cold
+108,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,New zealand,Cold
+109,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,New zealand,Cold
+110,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,New zealand,Cold
+111,1,RR Pant,12,4,1,0,100,Headingley,Away,0,0,0,37.55,Batting,West Indies,Cold
+112,2,RG Sharma,218,103,14,2,109.57,Headingley,Away,5,42,27,48.53,Batting,West Indies,Cold
+113,3,V Kohli,239,34,3,0,82.93,Headingley,Away,2,54,43,60.31,Batting,West Indies,Cold
+114,4,KL Rahul,23,111,11,1,94.07,Headingley,Away,5,4,2,43.32,Batting,West Indies,Cold
+115,5,MS Dhoni,350,0,0,0,0,Headingley,Away,0,73,10,50.42,Batting,West Indies,Cold
+116,6,H Pandya,54,7,1,0,175,Headingley,Away,0,4,0,34.53,Batting,West Indies,Cold
+117,7,KM Jadhav,68,0,0,0,0,Headingley,Away,0,6,2,42.97,Batting,West Indies,Cold
+118,8,B Kumar,114,0,0,0,0,Headingley,Away,0,1,0,14.22,Batting,West Indies,Cold
+119,9,K Yadav,70,0,0,0,0,Headingley,Away,0,0,0,6.13,Batting,West Indies,Cold
+120,10,YS Chahal,50,0,0,0,0,Headingley,Away,0,0,0,7.8,Batting,West Indies,Cold
+121,11,J Bumrah,58,0,0,0,0,Headingley,Away,0,0,0,4.3,Batting,West Indies,Cold
+122,1,RR Pant,12,32,4,0,57.14,Old Trafford,Away,1,0,0,37.55,Bowling,West Indies,Cold
+123,2,RG Sharma,218,1,0,0,25,Old Trafford,Away,0,42,27,48.53,Bowling,West Indies,Cold
+124,3,V Kohli,239,1,0,0,16.67,Old Trafford,Away,0,54,43,60.31,Bowling,West Indies,Cold
+125,4,KL Rahul,23,1,0,0,14.29,Old Trafford,Away,0,4,2,43.32,Bowling,West Indies,Cold
+126,5,MS Dhoni,350,50,1,1,69.44,Old Trafford,Away,2,73,10,50.42,Bowling,West Indies,Cold
+127,6,H Pandya,54,32,2,0,51.61,Old Trafford,Away,2,4,0,34.53,Bowling,West Indies,Cold
+128,7,D Karthik,94,6,1,0,24,Old Trafford,Away,0,9,0,30.21,Bowling,West Indies,Cold
+129,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,West Indies,Cold
+130,9,RA Jadeja,156,77,4,4,130.51,Old Trafford,Away,4,11,0,30.84,Bowling,West Indies,Cold
+131,10,YS Chahal,50,5,1,0,100,Old Trafford,Away,0,0,0,7.8,Bowling,West Indies,Cold
+132,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,West Indies,Cold
+133,1,A Rayudu,55,13,2,0,68.42,Hyderabad,Home,1,10,3,37.55,Batting,South Africa,Hot and humid
+134,2,RG Sharma,218,37,5,0,56.06,Hyderabad,Home,2,42,27,48.53,Batting,South Africa,Hot and humid
+135,3,V Kohli,239,44,6,1,97.77,Hyderabad,Home,2,54,43,60.31,Batting,South Africa,Hot and humid
+136,4,S Dhawan,133,0,0,0,0,Hyderabad,Home,0,27,17,43.32,Batting,South Africa,Hot and humid
+137,5,MS Dhoni,350,59,6,1,81.94,Hyderabad,Home,3,73,10,50.42,Batting,South Africa,Hot and humid
+138,6,K Yadav,70,0,0,0,0,Hyderabad,Home,0,0,0,34.53,Batting,South Africa,Hot and humid
+139,7,KM Jadhav,68,81,9,1,93.1,Hyderabad,Home,4,6,2,30.21,Batting,South Africa,Hot and humid
+140,8,V Shankar,12,0,0,0,0,Hyderabad,Home,0,0,0,14.22,Batting,South Africa,Hot and humid
+141,9,RA Jadeja,156,0,0,0,0,Hyderabad,Home,0,11,0,30.84,Batting,South Africa,Hot and humid
+142,10,M SHami,50,0,0,0,0,Hyderabad,Home,0,0,0,7.8,Batting,South Africa,Hot and humid
+143,11,J Bumrah,58,0,0,0,0,Hyderabad,Home,0,0,0,4.3,Batting,South Africa,Hot and humid
+144,1,A Rayudu,55,18,2,0,56.25,Vidharbha,Home,1,10,3,37.55,Batting,Sri Lanka,Hot and humid
+145,2,RG Sharma,218,0,0,0,0,Vidharbha,Home,0,42,27,48.53,Batting,Sri Lanka,Hot and humid
+146,3,V Kohli,239,116,10,0,96.67,Vidharbha,Home,5,54,43,60.31,Batting,Sri Lanka,Hot and humid
+147,4,S Dhawan,133,21,4,0,72.51,Vidharbha,Home,1,27,17,43.32,Batting,Sri Lanka,Hot and humid
+148,5,MS Dhoni,350,0,0,0,0,Vidharbha,Home,0,73,10,50.42,Batting,Sri Lanka,Hot and humid
+149,6,K Yadav,70,3,0,0,100,Vidharbha,Home,0,0,0,34.53,Batting,Sri Lanka,Hot and humid
+150,7,KM Jadhav,68,11,1,0,96.64,Vidharbha,Home,1,6,2,30.21,Batting,Sri Lanka,Hot and humid
+151,8,V Shankar,12,46,5,1,112.54,Vidharbha,Home,2,0,0,14.22,Batting,Sri Lanka,Hot and humid
+152,9,RA Jadeja,156,21,0,0,52.54,Vidharbha,Home,1,11,0,30.84,Batting,Sri Lanka,Hot and humid
+153,10,M SHami,50,2,0,0,50,Vidharbha,Home,0,0,0,7.8,Batting,Sri Lanka,Hot and humid
+154,11,J Bumrah,58,0,0,0,0,Vidharbha,Home,0,0,0,4.3,Batting,Sri Lanka,Hot and humid
+155,1,A Rayudu,55,2,0,0,25,Ranchi,Home,0,10,3,37.55,Slow and low,Australia,Hot and humid
+156,2,RG Sharma,218,14,2,1,100,Ranchi,Home,1,42,27,48.53,Slow and low,Australia,Hot and humid
+157,3,V Kohli,239,123,16,1,129.47,Ranchi,Home,5,54,43,60.31,Slow and low,Australia,Hot and humid
+158,4,S Dhawan,133,1,0,0,10,Ranchi,Home,0,27,17,43.32,Slow and low,Australia,Hot and humid
+159,5,MS Dhoni,350,26,2,1,61.9,Ranchi,Home,1,73,10,50.42,Slow and low,Australia,Hot and humid
+160,6,K Yadav,70,10,1,0,62.5,Ranchi,Home,1,0,0,34.53,Slow and low,Australia,Hot and humid
+161,7,KM Jadhav,68,26,3,0,66.67,Ranchi,Home,1,6,2,30.21,Slow and low,Australia,Hot and humid
+162,8,V Shankar,12,32,4,0,106.67,Ranchi,Home,2,0,0,14.22,Slow and low,Australia,Hot and humid
+163,9,RA Jadeja,156,24,0,1,77.67,Ranchi,Home,1,11,0,30.84,Slow and low,Australia,Hot and humid
+164,10,M SHami,50,8,2,0,200,Ranchi,Home,0,0,0,7.8,Slow and low,Australia,Hot and humid
+165,11,J Bumrah,58,0,0,0,0,Ranchi,Home,0,0,0,4.3,Slow and low,Australia,Hot and humid
+166,1,RR Pant,12,36,4,1,150,Chandigarh,Home,2,0,0,37.55,Pace and Bounce,West Indies,Hot and humid
+167,2,RG Sharma,218,95,7,2,103.26,Chandigarh,Home,4,42,27,48.53,Pace and Bounce,West Indies,Hot and humid
+168,3,V Kohli,239,7,1,0,116.67,Chandigarh,Home,0,54,43,60.31,Pace and Bounce,West Indies,Hot and humid
+169,4,S Dhawan,133,143,18,3,124.34,Chandigarh,Home,5,27,17,43.32,Pace and Bounce,West Indies,Hot and humid
+170,5,B Kumar,350,1,0,0,50,Chandigarh,Home,0,1,0,50.42,Pace and Bounce,West Indies,Hot and humid
+171,6,K Yadav,70,1,0,0,100,Chandigarh,Home,0,0,0,34.53,Pace and Bounce,West Indies,Hot and humid
+172,7,KM Jadhav,68,10,0,0,83,Chandigarh,Home,1,6,2,30.21,Pace and Bounce,West Indies,Hot and humid
+173,8,V Shankar,12,26,1,2,173.33,Chandigarh,Home,1,0,0,14.22,Pace and Bounce,West Indies,Hot and humid
+174,9,RA Jadeja,156,1,0,0,100,Chandigarh,Home,0,11,0,30.84,Pace and Bounce,West Indies,Hot and humid
+175,10,M SHami,50,0,0,0,0,Chandigarh,Home,0,0,0,7.8,Pace and Bounce,West Indies,Hot and humid
+176,11,J Bumrah,58,0,0,0,0,Chandigarh,Home,0,0,0,4.3,Pace and Bounce,West Indies,Hot and humid
+177,1,RR Pant,12,16,1,1,100,Delhi,Home,1,0,0,37.55,Batting,England,Hot and humid
+178,2,RG Sharma,218,56,4,0,62.92,Delhi,Home,3,42,27,48.53,Batting,England,Hot and humid
+179,3,V Kohli,239,20,2,0,90.91,Delhi,Home,1,54,43,60.31,Batting,England,Hot and humid
+180,4,S Dhawan,133,12,2,0,80,Delhi,Home,1,27,17,43.32,Batting,England,Hot and humid
+181,5,B Kumar,114,46,3,2,85.91,Delhi,Home,2,1,0,50.42,Batting,England,Hot and humid
+182,6,K Yadav,70,8,1,0,66.34,Delhi,Home,0,0,0,34.53,Batting,England,Hot and humid
+183,7,KM Jadhav,68,44,4,1,77.56,Delhi,Home,2,6,2,30.21,Batting,England,Hot and humid
+184,8,V Shankar,12,16,0,1,76.91,Delhi,Home,1,0,0,14.22,Batting,England,Hot and humid
+185,9,RA Jadeja,156,0,0,0,0,Delhi,Home,0,11,0,30.84,Batting,England,Hot and humid
+186,10,M SHami,50,3,0,0,42.24,Delhi,Home,0,0,0,7.8,Batting,England,Hot and humid
+187,11,J Bumrah,58,1,0,0,25,Delhi,Home,0,0,0,4.3,Batting,England,Hot and humid
+188,1,V Shankar,12,14,3,0,73.68,Old Trafford,Away,1,0,0,44.5,Bowling,Afghanistan,Cold
+189,2,RG Sharma,218,18,1,1,78.26,Old Trafford,Away,1,42,27,48.53,Bowling,Afghanistan,Cold
+190,3,V Kohli,239,72,8,0,87.29,Old Trafford,Away,4,54,43,60.31,Bowling,Afghanistan,Cold
+191,4,KLRahul,23,48,6,0,75.23,Old Trafford,Away,2,27,17,43.32,Bowling,Afghanistan,Cold
+192,5,MS Dhoni,350,56,3,2,91.76,Old Trafford,Away,3,73,10,50.42,Bowling,Afghanistan,Cold
+193,6,H Pandya,54,46,5,0,121.3,Old Trafford,Away,2,0,0,34.53,Bowling,Afghanistan,Cold
+194,7,KM Jadhav,68,7,1,0,70,Old Trafford,Away,0,6,2,42.97,Bowling,Afghanistan,Cold
+195,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,Afghanistan,Cold
+196,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,Afghanistan,Cold
+197,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,Afghanistan,Cold
+198,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,Afghanistan,Cold
+199,1,V Shankar,12,29,2,0,70.73,Southampton,Away,1,0,0,44.5,Batting,Bangladesh,Cold
+200,2,RG Sharma,218,1,0,0,10,Southampton,Away,0,42,27,48.53,Batting,Bangladesh,Cold
+201,3,V Kohli,239,67,5,0,106.39,Southampton,Away,3,54,43,60.31,Batting,Bangladesh,Cold
+202,4,KL Rahul,23,30,2,0,56,Southampton,Away,2,4,2,43.32,Batting,Bangladesh,Cold
+203,5,MS Dhoni,350,28,3,0,53.87,Southampton,Away,1,73,10,50.42,Batting,Bangladesh,Cold
+204,6,H Pandya,54,7,0,0,77.78,Southampton,Away,0,4,0,34.53,Batting,Bangladesh,Cold
+205,7,KM Jadhav,68,52,3,1,76,Southampton,Away,3,6,2,42.97,Batting,Bangladesh,Cold
+206,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,Bangladesh,Cold
+207,9,K Yadav,70,1,0,0,100,Southampton,Away,0,0,0,6.13,Batting,Bangladesh,Cold
+208,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,Bangladesh,Cold
+209,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,Bangladesh,Cold
+210,1,V Shankar,12,15,1,0,100,Old Trafford,Away,1,0,0,44.5,Bowling,New zealand,Cold
+211,2,RG Sharma,218,140,14,3,123.89,Old Trafford,Away,5,42,27,48.53,Bowling,New zealand,Cold
+212,3,V Kohli,239,77,7,0,118.46,Old Trafford,Away,4,54,43,60.31,Bowling,New zealand,Cold
+213,4,KL Rahul,23,57,3,2,73.08,Old Trafford,Away,3,4,2,43.32,Bowling,New zealand,Cold
+214,5,MS Dhoni,350,1,0,0,50,Old Trafford,Away,0,73,10,50.42,Bowling,New zealand,Cold
+215,6,H Pandya,54,26,2,1,136.84,Old Trafford,Away,1,4,0,34.53,Bowling,New zealand,Cold
+216,7,KM Jadhav,68,9,1,0,112.5,Old Trafford,Away,0,6,2,42.97,Bowling,New zealand,Cold
+217,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,New zealand,Cold
+218,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,New zealand,Cold
+219,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,New zealand,Cold
+220,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,New zealand,Cold
+221,1,S Dhawan,133,117,16,0,107.34,The Oval,Away,5,27,17,44.5,Bounce and Pace,West Indies,Cold
+222,2,RG Sharma,218,57,3,1,81.43,The Oval,Away,3,42,27,48.53,Bounce and Pace,West Indies,Cold
+223,3,V Kohli,239,82,4,2,106.49,The Oval,Away,4,54,43,60.31,Bounce and Pace,West Indies,Cold
+224,4,KL Rahul,23,11,1,1,366.67,The Oval,Away,1,4,2,43.32,Bounce and Pace,West Indies,Cold
+225,5,MS Dhoni,350,27,3,1,192.86,The Oval,Away,1,73,10,50.42,Bounce and Pace,West Indies,Cold
+226,6,H Pandya,54,48,4,3,177.78,The Oval,Away,2,4,0,34.53,Bounce and Pace,West Indies,Cold
+227,7,KM Jadhav,68,0,0,0,0,The Oval,Away,0,6,2,42.97,Bounce and Pace,West Indies,Cold
+228,8,B Kumar,114,0,0,0,0,The Oval,Away,0,1,0,14.22,Bounce and Pace,West Indies,Cold
+229,9,K Yadav,70,0,0,0,0,The Oval,Away,0,0,0,6.13,Bounce and Pace,West Indies,Cold
+230,10,YS Chahal,50,0,0,0,0,The Oval,Away,0,0,0,7.8,Bounce and Pace,West Indies,Cold
+231,11,J Bumrah,58,0,0,0,0,The Oval,Away,0,0,0,4.3,Bounce and Pace,West Indies,Cold
+232,1,S Dhawan,133,8,1,0,66.67,Southampton,Away,0,27,17,44.5,Batting,West Indies,Cold
+233,2,RG Sharma,218,122,13,2,84.72,Southampton,Away,5,42,27,48.53,Batting,West Indies,Cold
+234,3,V Kohli,239,18,1,0,52.94,Southampton,Away,1,54,43,60.31,Batting,West Indies,Cold
+235,4,KL Rahul,23,26,2,0,61.9,Southampton,Away,1,4,2,43.32,Batting,West Indies,Cold
+236,5,MS Dhoni,350,34,2,0,73.91,Southampton,Away,2,73,10,50.42,Batting,West Indies,Cold
+237,6,H Pandya,54,15,3,0,214.29,Southampton,Away,1,4,0,34.53,Batting,West Indies,Cold
+238,7,KM Jadhav,68,0,0,0,0,Southampton,Away,0,6,2,42.97,Batting,West Indies,Cold
+239,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,West Indies,Cold
+240,9,K Yadav,70,0,0,0,0,Southampton,Away,0,0,0,6.13,Batting,West Indies,Cold
+241,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,West Indies,Cold
+242,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,West Indies,Cold
+243,1,RG Sharma,218,10,2,0,166.7,Trinidad,Away,1,42,27,48.53,Slow,South Africa,Cold
+244,2,S Dhawan,133,36,5,0,100,Trinidad,Away,2,27,17,44.5,Slow,South Africa,Cold
+245,3,V Kohli,239,115,14,0,115.2,Trinidad,Away,5,54,43,60.31,Slow,South Africa,Cold
+246,4,RR Pant,12,0,0,0,0,Trinidad,Away,0,0,0,22.9,Slow,South Africa,Cold
+247,5,SS Iyer,6,65,3,5,158.5,Trinidad,Away,3,4,0,49.43,Slow,South Africa,Cold
+248,6,KM Jadhav,68,19,1,1,158.3,Trinidad,Away,1,6,2,42.97,Slow,South Africa,Cold
+249,7,RA Jadeja,156,0,0,0,0,Trinidad,Away,0,11,0,30.84,Slow,South Africa,Cold
+250,8,B Kumar,114,0,0,0,0,Trinidad,Away,0,1,0,14.22,Slow,South Africa,Cold
+251,9,M Shami,70,0,0,0,0,Trinidad,Away,0,0,0,7.56,Slow,South Africa,Cold
+252,10,KK Ahmed,11,0,0,0,0,Trinidad,Away,0,0,0,4.5,Slow,South Africa,Cold
+253,11,YS Chahal,50,0,0,0,0,Trinidad,Away,0,0,0,7.8,Slow,South Africa,Cold
+254,1,RG Sharma,218,18,2,0,52.9,Trinidad,Away,1,42,27,48.53,Slow,Sri Lanka,Cold
+255,2,S Dhawan,133,2,0,0,66.7,Trinidad,Away,0,27,17,44.5,Slow,Sri Lanka,Cold
+256,3,V Kohli,239,120,14,1,96,Trinidad,Away,5,54,43,60.31,Slow,Sri Lanka,Cold
+257,4,RR Pant,12,20,2,0,57.1,Trinidad,Away,1,0,0,22.9,Slow,Sri Lanka,Cold
+258,5,SS Iyer,6,71,5,1,104.4,Trinidad,Away,4,4,0,49.43,Slow,Sri Lanka,Cold
+259,6,KM Jadhav,68,16,2,0,114.3,Trinidad,Away,1,6,2,42.97,Slow,Sri Lanka,Cold
+260,7,RA Jadeja,156,16,1,0,100,Trinidad,Away,1,11,0,30.84,Slow,Sri Lanka,Cold
+261,8,B Kumar,114,1,0,0,50,Trinidad,Away,0,1,0,14.22,Slow,Sri Lanka,Cold
+262,9,M Shami,70,3,0,0,60,Trinidad,Away,0,0,0,7.56,Slow,Sri Lanka,Cold
+263,10,KK Ahmed,11,0,0,0,0,Trinidad,Away,0,0,0,4.5,Slow,Sri Lanka,Cold
+264,11,YS Chahal,50,0,0,0,0,Trinidad,Away,0,0,0,7.8,Slow,Sri Lanka,Cold
+265,1,RR Pant,12,32,4,0,57.14,Old Trafford,Away,2,0,0,37.55,Bowling,Australia,Cold
+266,2,RG Sharma,218,1,0,0,25,Old Trafford,Away,0,42,27,48.53,Bowling,Australia,Cold
+267,3,V Kohli,239,1,0,0,16.67,Old Trafford,Away,0,54,43,60.31,Bowling,Australia,Cold
+268,4,KL Rahul,23,1,0,0,14.29,Old Trafford,Away,0,4,0,43.32,Bowling,Australia,Cold
+269,5,MS Dhoni,350,50,1,1,69.44,Old Trafford,Away,3,73,10,50.42,Bowling,Australia,Cold
+270,6,H Pandya,54,32,2,0,51.61,Old Trafford,Away,2,4,0,34.53,Bowling,Australia,Cold
+271,7,D Karthik,94,6,1,0,24,Old Trafford,Away,0,9,0,30.21,Bowling,Australia,Cold
+272,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,Australia,Cold
+273,9,RA Jadeja,156,77,4,4,130.51,Old Trafford,Away,4,11,0,30.84,Bowling,Australia,Cold
+274,10,YS Chahal,50,5,1,0,100,Old Trafford,Away,0,0,0,7.8,Bowling,Australia,Cold
+275,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,Australia,Cold
+276,1,RR Pant,12,4,1,0,100,Headingley,Away,0,0,0,37.55,Batting,West Indies,Cold
+277,2,RG Sharma,218,103,14,2,109.57,Headingley,Away,5,42,27,48.53,Batting,West Indies,Cold
+278,3,V Kohli,239,34,3,0,82.93,Headingley,Away,2,54,43,60.31,Batting,West Indies,Cold
+279,4,KL Rahul,23,111,11,1,94.07,Headingley,Away,5,4,0,43.32,Batting,West Indies,Cold
+280,5,MS Dhoni,350,0,0,0,0,Headingley,Away,0,73,10,50.42,Batting,West Indies,Cold
+281,6,H Pandya,54,7,1,0,175,Headingley,Away,0,4,0,34.53,Batting,West Indies,Cold
+282,7,KM Jadhav,68,0,0,0,0,Headingley,Away,0,6,2,42.97,Batting,West Indies,Cold
+283,8,B Kumar,114,0,0,0,0,Headingley,Away,0,1,0,14.22,Batting,West Indies,Cold
+284,9,K Yadav,70,0,0,0,0,Headingley,Away,0,0,0,6.13,Batting,West Indies,Cold
+285,10,YS Chahal,50,0,0,0,0,Headingley,Away,0,0,0,7.8,Batting,West Indies,Cold
+286,11,J Bumrah,58,0,0,0,0,Headingley,Away,0,0,0,4.3,Batting,West Indies,Cold
+287,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,2,0,0,37.55,Bowling,England,Cold
+288,2,RG Sharma,218,102,15,0,93.58,Edgbaston,Away,5,42,27,48.53,Bowling,England,Cold
+289,3,V Kohli,239,66,7,0,86.84,Edgbaston,Away,3,54,43,60.31,Bowling,England,Cold
+290,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,0,43.32,Bowling,England,Cold
+291,5,MS Dhoni,350,42,4,1,135.8,Edgbaston,Away,2,73,10,50.42,Bowling,England,Cold
+292,6,H Pandya,54,45,4,0,136.36,Edgbaston,Away,2,4,0,34.53,Bowling,England,Cold
+293,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,England,Cold
+294,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,England,Cold
+295,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,England,Cold
+296,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,England,Cold
+297,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,England,Cold
+298,1,RR Pant,12,48,6,1,117.01,Edgbaston,Away,2,0,0,37.55,Bowling,Afghanistan,Cold
+299,2,RG Sharma,218,104,7,5,113.04,Edgbaston,Away,5,42,27,48.53,Bowling,Afghanistan,Cold
+300,3,V Kohli,239,26,3,0,96.3,Edgbaston,Away,1,54,43,60.31,Bowling,Afghanistan,Cold
+301,4,KL Rahul,23,77,6,1,83.7,Edgbaston,Away,4,4,0,43.32,Bowling,Afghanistan,Cold
+302,5,MS Dhoni,350,35,4,0,106.06,Edgbaston,Away,2,73,10,50.42,Bowling,Afghanistan,Cold
+303,6,H Pandya,54,0,0,0,0,Edgbaston,Away,0,4,0,34.53,Bowling,Afghanistan,Cold
+304,7,KM Jadhav,68,8,1,0,88.89,Edgbaston,Away,0,6,2,42.97,Bowling,Afghanistan,Cold
+305,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,Afghanistan,Cold
+306,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,Afghanistan,Cold
+307,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,Afghanistan,Cold
+308,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,Afghanistan,Cold
+309,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,2,0,0,37.55,Bowling,Bangladesh,Cold
+310,2,RG Sharma,218,102,15,0,93.67,Edgbaston,Away,5,42,27,48.53,Bowling,Bangladesh,Cold
+311,3,V Kohli,239,66,7,0,86.34,Edgbaston,Away,3,54,43,60.31,Bowling,Bangladesh,Cold
+312,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,0,43.32,Bowling,Bangladesh,Cold
+313,5,MS Dhoni,350,42,4,1,135.48,Edgbaston,Away,2,73,10,50.42,Bowling,Bangladesh,Cold
+314,6,H Pandya,54,45,4,0,136.35,Edgbaston,Away,2,4,0,34.53,Bowling,Bangladesh,Cold
+315,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,Bangladesh,Cold
+316,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,Bangladesh,Cold
+317,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,Bangladesh,Cold
+318,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,Bangladesh,Cold
+319,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,Bangladesh,Cold
+320,1,V Shankar,12,29,2,0,70.73,Southampton,Away,1,0,0,44.5,Batting,New zealand,Cold
+321,2,RG Sharma,218,1,0,0,10,Southampton,Away,0,42,27,48.53,Batting,New zealand,Cold
+322,3,V Kohli,239,67,5,0,106.39,Southampton,Away,3,54,43,60.31,Batting,New zealand,Cold
+323,4,KL Rahul,23,30,2,0,56,Southampton,Away,3,4,0,43.32,Batting,New zealand,Cold
+324,5,MS Dhoni,350,28,3,0,53.87,Southampton,Away,1,73,10,50.42,Batting,New zealand,Cold
+325,6,H Pandya,54,7,0,0,77.78,Southampton,Away,0,4,0,34.53,Batting,New zealand,Cold
+326,7,KM Jadhav,68,52,3,1,76,Southampton,Away,3,6,2,42.97,Batting,New zealand,Cold
+327,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,New zealand,Cold
+328,9,K Yadav,70,1,0,0,100,Southampton,Away,0,0,0,6.13,Batting,New zealand,Cold
+329,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,New zealand,Cold
+330,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,New zealand,Cold
+331,1,V Shankar,12,14,3,0,73.68,Old Trafford,Away,1,0,0,44.5,Bowling,West Indies,Cold
+332,2,RG Sharma,218,18,1,1,78.26,Old Trafford,Away,1,42,27,48.53,Bowling,West Indies,Cold
+333,3,V Kohli,239,72,8,0,87.29,Old Trafford,Away,2,54,43,60.31,Bowling,West Indies,Cold
+334,4,KLRahul,23,48,6,0,75.23,Old Trafford,Away,2,4,0,43.32,Bowling,West Indies,Cold
+335,5,MS Dhoni,350,56,3,2,91.76,Old Trafford,Away,3,73,10,50.42,Bowling,West Indies,Cold
+336,6,H Pandya,54,46,5,0,121.3,Old Trafford,Away,2,4,0,34.53,Bowling,West Indies,Cold
+337,7,KM Jadhav,68,7,1,0,70,Old Trafford,Away,0,6,2,42.97,Bowling,West Indies,Cold
+338,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,West Indies,Cold
+339,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,West Indies,Cold
+340,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,West Indies,Cold
+341,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,West Indies,Cold
+342,1,S Dhawan,133,117,16,0,107.34,The Oval,Away,5,27,17,44.5,Bounce and Pace,West Indies,Cold
+343,2,RG Sharma,218,57,3,1,81.43,The Oval,Away,3,42,27,48.53,Bounce and Pace,West Indies,Cold
+344,3,V Kohli,239,82,4,2,106.49,The Oval,Away,4,54,43,60.31,Bounce and Pace,West Indies,Cold
+345,4,KL Rahul,23,11,1,1,366.67,The Oval,Away,1,4,0,43.32,Bounce and Pace,West Indies,Cold
+346,5,MS Dhoni,350,27,3,1,192.86,The Oval,Away,1,73,10,50.42,Bounce and Pace,West Indies,Cold
+347,6,H Pandya,54,48,4,3,177.78,The Oval,Away,2,4,0,34.53,Bounce and Pace,West Indies,Cold
+348,7,KM Jadhav,68,0,0,0,0,The Oval,Away,0,6,2,42.97,Bounce and Pace,West Indies,Cold
+349,8,B Kumar,114,0,0,0,0,The Oval,Away,0,1,0,14.22,Bounce and Pace,West Indies,Cold
+350,9,K Yadav,70,0,0,0,0,The Oval,Away,0,0,0,6.13,Bounce and Pace,West Indies,Cold
+351,10,YS Chahal,50,0,0,0,0,The Oval,Away,0,0,0,7.8,Bounce and Pace,West Indies,Cold
+352,11,J Bumrah,58,0,0,0,0,The Oval,Away,0,0,0,4.3,Bounce and Pace,West Indies,Cold
+353,1,S Dhawan,133,8,1,0,66.67,Southampton,Away,0,27,17,44.5,Batting,South Africa,Cold
+354,2,RG Sharma,218,122,13,2,84.72,Southampton,Away,5,42,27,48.53,Batting,South Africa,Cold
+355,3,V Kohli,239,18,1,0,52.94,Southampton,Away,1,54,43,60.31,Batting,South Africa,Cold
+356,4,KL Rahul,23,26,2,0,61.9,Southampton,Away,1,4,0,43.32,Batting,South Africa,Cold
+357,5,MS Dhoni,350,34,2,0,73.91,Southampton,Away,2,73,10,50.42,Batting,South Africa,Cold
+358,6,H Pandya,54,15,3,0,214.29,Southampton,Away,1,4,0,34.53,Batting,South Africa,Cold
+359,7,KM Jadhav,68,0,0,0,0,Southampton,Away,0,6,2,42.97,Batting,South Africa,Cold
+360,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,South Africa,Cold
+361,9,K Yadav,70,0,0,0,0,Southampton,Away,0,0,0,6.13,Batting,South Africa,Cold
+362,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,South Africa,Cold
+363,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,South Africa,Cold
+364,1,S Dhawan,133,75,6,0,72.82,McLean Park,Away,4,27,17,44.5,Swinging,Sri Lanka,Cold
+365,2,RG Sharma,218,11,1,0,45,McLean Park,Away,1,42,27,48.53,Swinging,Sri Lanka,Cold
+366,3,V Kohli,239,45,3,0,76.86,McLean Park,Away,2,54,43,60.31,Swinging,Sri Lanka,Cold
+367,4,A Rayudu,55,13,2,0,56.56,McLean Park,Away,1,4,0,43.32,Swinging,Sri Lanka,Cold
+368,5,MS Dhoni,350,0,0,0,0,McLean Park,Away,0,73,10,50.42,Swinging,Sri Lanka,Cold
+369,6,H Pandya,54,0,0,0,0,McLean Park,Away,0,4,0,34.53,Swinging,Sri Lanka,Cold
+370,7,KM Jadhav,68,0,0,0,0,McLean Park,Away,0,6,2,42.97,Swinging,Sri Lanka,Cold
+371,8,B Kumar,114,0,0,0,0,McLean Park,Away,0,1,0,14.22,Swinging,Sri Lanka,Cold
+372,9,K Yadav,70,0,0,0,0,McLean Park,Away,0,0,0,6.13,Swinging,Sri Lanka,Cold
+373,10,YS Chahal,50,0,0,0,0,McLean Park,Away,0,0,0,7.8,Swinging,Sri Lanka,Cold
+374,11,J Bumrah,58,0,0,0,0,McLean Park,Away,0,0,0,4.3,Swinging,Sri Lanka,Cold
+375,1,S Dhawan,133,66,9,0,98.53,Bay Oval,Away,3,27,17,44.5,Bounce and Pace,Australia,Cold
+376,2,RG Sharma,218,87,9,3,90.63,Bay Oval,Away,4,42,27,48.53,Bounce and Pace,Australia,Cold
+377,3,V Kohli,239,43,5,0,95.56,Bay Oval,Away,2,54,43,60.31,Bounce and Pace,Australia,Cold
+378,4,A Rayudu,55,47,3,1,95.92,Bay Oval,Away,2,4,0,43.32,Bounce and Pace,Australia,Cold
+379,5,MS Dhoni,350,48,5,1,145.45,Bay Oval,Away,2,73,10,50.42,Bounce and Pace,Australia,Cold
+380,6,H Pandya,54,0,0,0,0,Bay Oval,Away,0,4,0,34.53,Bounce and Pace,Australia,Cold
+381,7,KM Jadhav,68,22,3,1,220,Bay Oval,Away,1,6,2,42.97,Bounce and Pace,Australia,Cold
+382,8,B Kumar,114,0,0,0,0,Bay Oval,Away,0,1,0,14.22,Bounce and Pace,Australia,Cold
+383,9,K Yadav,70,0,0,0,0,Bay Oval,Away,0,0,0,6.13,Bounce and Pace,Australia,Cold
+384,10,YS Chahal,50,0,0,0,0,Bay Oval,Away,0,0,0,7.8,Bounce and Pace,Australia,Cold
+385,11,J Bumrah,58,0,0,0,0,Bay Oval,Away,0,0,0,4.3,Bounce and Pace,Australia,Cold
+386,1,S Dhawan,133,28,6,0,103.34,Bay Oval,Away,1,27,17,44.5,Bounce and Pace,West Indies,Cold
+387,2,RG Sharma,218,62,3,2,80.45,Bay Oval,Away,3,42,27,48.53,Bounce and Pace,West Indies,Cold
+388,3,V Kohli,239,60,6,1,81.45,Bay Oval,Away,3,54,43,60.31,Bounce and Pace,West Indies,Cold
+389,4,A Rayudu,55,40,5,1,90.34,Bay Oval,Away,2,10,3,43.32,Bounce and Pace,West Indies,Cold
+390,5,D Karthik,94,38,5,1,100,Bay Oval,Away,2,9,0,50.42,Bounce and Pace,West Indies,Cold
+391,6,H Pandya,54,0,0,0,0,Bay Oval,Away,0,4,0,34.53,Bounce and Pace,West Indies,Cold
+392,7,KM Jadhav,68,0,0,0,0,Bay Oval,Away,0,6,2,42.97,Bounce and Pace,West Indies,Cold
+393,8,B Kumar,114,0,0,0,0,Bay Oval,Away,0,1,0,14.22,Bounce and Pace,West Indies,Cold
+394,9,K Yadav,70,0,0,0,0,Bay Oval,Away,0,0,0,6.13,Bounce and Pace,West Indies,Cold
+395,10,YS Chahal,50,0,0,0,0,Bay Oval,Away,0,0,0,7.8,Bounce and Pace,West Indies,Cold
+396,11,J Bumrah,58,0,0,0,0,Bay Oval,Away,0,0,0,4.3,Bounce and Pace,West Indies,Cold
+397,1,S Dhawan,133,13,1,1,65,Seddon Park,Away,1,27,17,44.5,Batting,England,Cold
+398,2,RG Sharma,218,7,0,0,30.43,Seddon Park,Away,0,42,27,48.53,Batting,England,Cold
+399,3,S Gill,5,9,1,0,42.86,Seddon Park,Away,0,0,0,60.31,Batting,England,Cold
+400,4,A Rayudu,55,0,0,0,0,Seddon Park,Away,0,10,3,43.32,Batting,England,Cold
+401,5,D Karthik,94,0,0,0,0,Seddon Park,Away,0,9,0,50.42,Batting,England,Cold
+402,6,H Pandya,54,1,0,0,14.9,Seddon Park,Away,0,4,0,34.53,Batting,England,Cold
+403,7,KM Jadhav,68,16,4,0,80,Seddon Park,Away,1,6,2,42.97,Batting,England,Cold
+404,8,B Kumar,114,1,0,0,8.33,Seddon Park,Away,0,1,0,14.22,Batting,England,Cold
+405,9,K Yadav,70,15,1,0,45.45,Seddon Park,Away,1,0,0,6.13,Batting,England,Cold
+406,10,YS Chahal,50,18,3,0,48.34,Seddon Park,Away,1,0,0,7.8,Batting,England,Cold
+407,11,J Bumrah,58,5,1,0,100,Seddon Park,Away,0,0,0,4.3,Batting,England,Cold
+408,1,S Dhawan,133,13,1,0,65,Wellington,Away,1,0,0,44.5,Slow and low,Afghanistan,Cold
+409,2,RG Sharma,218,7,0,0,31.4,Wellington,Away,0,42,27,48.53,Slow and low,Afghanistan,Cold
+410,3,S Gill,5,9,1,0,57,Wellington,Away,0,0,0,60.31,Slow and low,Afghanistan,Cold
+411,4,A Rayudu,55,90,8,4,79.65,Wellington,Away,4,10,3,43.32,Slow and low,Afghanistan,Cold
+412,5,D Karthik,94,0,0,0,0,Wellington,Away,0,9,0,50.42,Slow and low,Afghanistan,Cold
+413,6,H Pandya,54,45,2,5,204.55,Wellington,Away,2,4,0,34.53,Slow and low,Afghanistan,Cold
+414,7,KM Jadhav,68,34,3,0,75.56,Wellington,Away,2,6,2,42.97,Slow and low,Afghanistan,Cold
+415,8,B Kumar,114,6,0,0,75,Wellington,Away,0,1,0,14.22,Slow and low,Afghanistan,Cold
+416,9,K Yadav,70,0,0,0,0,Wellington,Away,0,0,0,6.13,Slow and low,Afghanistan,Cold
+417,10,YS Chahal,50,0,0,0,0,Wellington,Away,0,0,0,7.8,Slow and low,Afghanistan,Cold
+418,11,J Bumrah,58,0,0,0,0,Wellington,Away,0,0,0,4.3,Slow and low,Afghanistan,Cold
+419,1,S Dhawan,133,29,2,3,161.11,Wellington,Away,1,0,0,44.5,Slow and low,Bangladesh,Cold
+420,2,RG Sharma,218,1,0,0,20,Wellington,Away,0,42,27,48.53,Slow and low,Bangladesh,Cold
+421,3,V Shankar,12,27,2,2,150,Wellington,Away,1,0,0,60.31,Slow and low,Bangladesh,Cold
+422,4,RR Pant,55,4,0,0,40,Wellington,Away,0,0,0,43.32,Slow and low,Bangladesh,Cold
+423,5,D Karthik,94,5,0,0,80,Wellington,Away,0,9,0,50.42,Slow and low,Bangladesh,Cold
+424,6,H Pandya,54,4,1,0,100,Wellington,Away,0,4,0,34.53,Slow and low,Bangladesh,Cold
+425,7,K Pandya,4,20,1,1,111,Wellington,Away,1,0,0,42.97,Slow and low,Bangladesh,Cold
+426,8,B Kumar,114,1,0,0,33.33,Wellington,Away,0,1,0,14.22,Slow and low,Bangladesh,Cold
+427,9,K Yadav,70,0,0,0,0,Wellington,Away,0,0,0,6.13,Slow and low,Bangladesh,Cold
+428,10,YS Chahal,50,1,0,0,33.33,Wellington,Away,0,0,0,7.8,Slow and low,Bangladesh,Cold
+429,11,J Bumrah,58,1,0,0,100,Wellington,Away,0,0,0,4.3,Slow and low,Bangladesh,Cold
+430,1,RG Sharma,218,18,2,0,52.9,Trinidad,Away,1,42,27,48.53,Slow,New zealand,Cold
+431,2,S Dhawan,133,2,0,0,66.7,Trinidad,Away,0,27,17,44.5,Slow,New zealand,Cold
+432,3,V Kohli,239,120,14,1,96,Trinidad,Away,5,54,43,60.31,Slow,New zealand,Cold
+433,4,RR Pant,12,20,2,0,57.1,Trinidad,Away,0,0,0,22.9,Slow,New zealand,Cold
+434,5,SS Iyer,6,71,5,1,104.4,Trinidad,Away,4,0,0,49.43,Slow,New zealand,Cold
+435,6,KM Jadhav,68,16,2,0,114.3,Trinidad,Away,1,6,2,42.97,Slow,New zealand,Cold
+436,7,RA Jadeja,156,16,1,0,100,Trinidad,Away,1,11,0,30.84,Slow,New zealand,Cold
+437,8,B Kumar,114,1,0,0,50,Trinidad,Away,0,1,0,14.22,Slow,New zealand,Cold
+438,9,M Shami,70,3,0,0,60,Trinidad,Away,0,0,0,7.56,Slow,New zealand,Cold
+439,10,KK Ahmed,11,0,0,0,0,Trinidad,Away,0,0,0,4.5,Slow,New zealand,Cold
+440,11,YS Chahal,50,0,0,0,0,Trinidad,Away,0,0,0,7.8,Slow,New zealand,Cold
+441,1,RR Pant,12,32,4,0,57.14,Old Trafford,Away,2,0,0,37.55,Bowling,West Indies,Cold
+442,2,RG Sharma,218,1,0,0,25,Old Trafford,Away,0,42,27,48.53,Bowling,West Indies,Cold
+443,3,V Kohli,239,1,0,0,16.67,Old Trafford,Away,0,54,43,60.31,Bowling,West Indies,Cold
+444,4,KL Rahul,23,1,0,0,14.29,Old Trafford,Away,0,4,2,43.32,Bowling,West Indies,Cold
+445,5,MS Dhoni,350,50,1,1,69.44,Old Trafford,Away,3,73,10,50.42,Bowling,West Indies,Cold
+446,6,H Pandya,54,32,2,0,51.61,Old Trafford,Away,2,4,0,34.53,Bowling,West Indies,Cold
+447,7,D Karthik,94,6,1,0,24,Old Trafford,Away,0,9,0,30.21,Bowling,West Indies,Cold
+448,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,West Indies,Cold
+449,9,RA Jadeja,156,77,4,4,130.51,Old Trafford,Away,4,11,0,30.84,Bowling,West Indies,Cold
+450,10,YS Chahal,50,5,1,0,100,Old Trafford,Away,0,0,0,7.8,Bowling,West Indies,Cold
+451,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,West Indies,Cold
+452,1,RR Pant,12,4,1,0,100,Headingley,Away,0,0,0,37.55,Batting,West Indies,Cold
+453,2,RG Sharma,218,103,14,2,109.57,Headingley,Away,5,42,27,48.53,Batting,West Indies,Cold
+454,3,V Kohli,239,34,3,0,82.93,Headingley,Away,2,54,43,60.31,Batting,West Indies,Cold
+455,4,KL Rahul,23,111,11,1,94.07,Headingley,Away,5,4,2,43.32,Batting,West Indies,Cold
+456,5,MS Dhoni,350,0,0,0,0,Headingley,Away,0,73,10,50.42,Batting,West Indies,Cold
+457,6,H Pandya,54,7,1,0,175,Headingley,Away,0,4,0,34.53,Batting,West Indies,Cold
+458,7,KM Jadhav,68,0,0,0,0,Headingley,Away,0,9,0,42.97,Batting,West Indies,Cold
+459,8,B Kumar,114,0,0,0,0,Headingley,Away,0,1,0,14.22,Batting,West Indies,Cold
+460,9,K Yadav,70,0,0,0,0,Headingley,Away,0,11,0,6.13,Batting,West Indies,Cold
+461,10,YS Chahal,50,0,0,0,0,Headingley,Away,0,0,0,7.8,Batting,West Indies,Cold
+462,11,J Bumrah,58,0,0,0,0,Headingley,Away,0,0,0,4.3,Batting,West Indies,Cold
+463,1,V Shankar,12,15,1,0,100,Old Trafford,Away,1,0,0,44.5,Bowling,South Africa,Cold
+464,2,RG Sharma,218,140,14,3,123.89,Old Trafford,Away,5,42,27,48.53,Bowling,South Africa,Cold
+465,3,V Kohli,239,77,7,0,118.46,Old Trafford,Away,4,54,43,60.31,Bowling,South Africa,Cold
+466,4,KL Rahul,23,57,3,2,73.08,Old Trafford,Away,5,4,2,43.32,Bowling,South Africa,Cold
+467,5,MS Dhoni,350,1,0,0,50,Old Trafford,Away,1,73,10,50.42,Bowling,South Africa,Cold
+468,6,H Pandya,54,26,2,1,136.84,Old Trafford,Away,1,4,0,34.53,Bowling,South Africa,Cold
+469,7,KM Jadhav,68,9,1,0,112.5,Old Trafford,Away,0,6,2,42.97,Bowling,South Africa,Cold
+470,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,South Africa,Cold
+471,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,South Africa,Cold
+472,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,South Africa,Cold
+473,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,South Africa,Cold
+474,1,V Shankar,12,29,2,0,70.73,Southampton,Away,1,0,0,44.5,Batting,Sri Lanka,Cold
+475,2,RG Sharma,218,1,0,0,10,Southampton,Away,0,42,27,48.53,Batting,Sri Lanka,Cold
+476,3,V Kohli,239,67,5,0,106.39,Southampton,Away,3,54,43,60.31,Batting,Sri Lanka,Cold
+477,4,KL Rahul,23,30,2,0,56,Southampton,Away,3,4,2,43.32,Batting,Sri Lanka,Cold
+478,5,MS Dhoni,350,28,3,0,53.87,Southampton,Away,1,73,10,50.42,Batting,Sri Lanka,Cold
+479,6,H Pandya,54,7,0,0,77.78,Southampton,Away,0,4,0,34.53,Batting,Sri Lanka,Cold
+480,7,KM Jadhav,68,52,3,1,76,Southampton,Away,3,6,2,42.97,Batting,Sri Lanka,Cold
+481,8,B Kumar,114,0,0,0,0,Southampton,Away,0,1,0,14.22,Batting,Sri Lanka,Cold
+482,9,K Yadav,70,1,0,0,100,Southampton,Away,0,0,0,6.13,Batting,Sri Lanka,Cold
+483,10,YS Chahal,50,0,0,0,0,Southampton,Away,0,0,0,7.8,Batting,Sri Lanka,Cold
+484,11,J Bumrah,58,0,0,0,0,Southampton,Away,0,0,0,4.3,Batting,Sri Lanka,Cold
+485,1,V Shankar,12,14,3,0,73.68,Old Trafford,Away,1,0,0,44.5,Bowling,Australia,Cold
+486,2,RG Sharma,218,18,1,1,78.26,Old Trafford,Away,1,42,27,48.53,Bowling,Australia,Cold
+487,3,V Kohli,239,72,8,0,87.29,Old Trafford,Away,4,54,43,60.31,Bowling,Australia,Cold
+488,4,KLRahul,23,48,6,0,75.23,Old Trafford,Away,2,4,2,43.32,Bowling,Australia,Cold
+489,5,MS Dhoni,350,56,3,2,91.76,Old Trafford,Away,3,73,10,50.42,Bowling,Australia,Cold
+490,6,H Pandya,54,46,5,0,121.3,Old Trafford,Away,2,4,0,34.53,Bowling,Australia,Cold
+491,7,KM Jadhav,68,7,1,0,70,Old Trafford,Away,0,6,2,42.97,Bowling,Australia,Cold
+492,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,Australia,Cold
+493,9,K Yadav,70,0,0,0,0,Old Trafford,Away,0,0,0,6.13,Bowling,Australia,Cold
+494,10,YS Chahal,50,0,0,0,0,Old Trafford,Away,0,0,0,7.8,Bowling,Australia,Cold
+495,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,Australia,Cold
+496,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,2,0,0,37.55,Bowling,West Indies,Cold
+497,2,RG Sharma,218,102,15,0,93.67,Edgbaston,Away,5,42,27,48.53,Bowling,West Indies,Cold
+498,3,V Kohli,239,66,7,0,86.34,Edgbaston,Away,3,54,43,60.31,Bowling,West Indies,Cold
+499,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,2,43.32,Bowling,West Indies,Cold
+500,5,MS Dhoni,350,42,4,1,135.48,Edgbaston,Away,2,73,10,50.42,Bowling,West Indies,Cold
+501,6,H Pandya,54,45,4,0,136.35,Edgbaston,Away,2,4,0,34.53,Bowling,West Indies,Cold
+502,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,West Indies,Cold
+503,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,West Indies,Cold
+504,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,West Indies,Cold
+505,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,West Indies,Cold
+506,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,West Indies,Cold
+507,1,RR Pant,12,48,6,1,117.01,Edgbaston,Away,2,0,0,37.55,Bowling,England,Cold
+508,2,RG Sharma,218,104,7,5,113.04,Edgbaston,Away,5,42,27,48.53,Bowling,England,Cold
+509,3,V Kohli,239,26,3,0,96.3,Edgbaston,Away,1,54,43,60.31,Bowling,England,Cold
+510,4,KL Rahul,23,77,6,1,83.7,Edgbaston,Away,4,4,2,43.32,Bowling,England,Cold
+511,5,MS Dhoni,350,35,4,0,106.06,Edgbaston,Away,1,73,10,50.42,Bowling,England,Cold
+512,6,H Pandya,54,0,0,0,0,Edgbaston,Away,0,4,0,34.53,Bowling,England,Cold
+513,7,KM Jadhav,68,8,1,0,88.89,Edgbaston,Away,0,6,2,42.97,Bowling,England,Cold
+514,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,England,Cold
+515,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,England,Cold
+516,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,England,Cold
+517,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,England,Cold
+518,1,RR Pant,12,32,4,0,110.34,Edgbaston,Away,2,0,0,37.55,Bowling,Afghanistan,Cold
+519,2,RG Sharma,218,102,15,0,93.58,Edgbaston,Away,5,42,27,48.53,Bowling,Afghanistan,Cold
+520,3,V Kohli,239,66,7,0,86.84,Edgbaston,Away,3,54,43,60.31,Bowling,Afghanistan,Cold
+521,4,KL Rahul,23,0,0,0,0,Edgbaston,Away,0,4,2,43.32,Bowling,Afghanistan,Cold
+522,5,MS Dhoni,350,42,4,1,135.8,Edgbaston,Away,2,73,10,50.42,Bowling,Afghanistan,Cold
+523,6,H Pandya,54,45,4,0,136.36,Edgbaston,Away,2,4,0,34.53,Bowling,Afghanistan,Cold
+524,7,KM Jadhav,68,12,1,0,92.31,Edgbaston,Away,1,6,2,42.97,Bowling,Afghanistan,Cold
+525,8,B Kumar,114,0,0,0,0,Edgbaston,Away,0,1,0,14.22,Bowling,Afghanistan,Cold
+526,9,K Yadav,70,0,0,0,0,Edgbaston,Away,0,0,0,6.13,Bowling,Afghanistan,Cold
+527,10,YS Chahal,50,0,0,0,0,Edgbaston,Away,0,0,0,7.8,Bowling,Afghanistan,Cold
+528,11,J Bumrah,58,0,0,0,0,Edgbaston,Away,0,0,0,4.3,Bowling,Afghanistan,Cold
+529,1,RR Pant,12,4,1,0,100,Headingley,Away,0,0,0,37.55,Batting,Bangladesh,Cold
+530,2,RG Sharma,218,103,14,2,109.57,Headingley,Away,5,42,27,48.53,Batting,Bangladesh,Cold
+531,3,V Kohli,239,34,3,0,82.93,Headingley,Away,2,54,43,60.31,Batting,Bangladesh,Cold
+532,4,KL Rahul,133,111,11,1,94.07,Headingley,Away,5,4,2,43.32,Batting,Bangladesh,Cold
+533,5,MS Dhoni,350,0,0,0,0,Headingley,Away,0,73,10,50.42,Batting,Bangladesh,Cold
+534,6,H Pandya,54,7,1,0,175,Headingley,Away,0,4,0,34.53,Batting,Bangladesh,Cold
+535,7,KM Jadhav,94,0,0,0,0,Headingley,Away,0,6,2,42.97,Batting,Bangladesh,Cold
+536,8,B Kumar,114,0,0,0,0,Headingley,Away,0,1,0,14.22,Batting,Bangladesh,Cold
+537,9,K Yadav,156,0,0,0,0,Headingley,Away,0,0,0,6.13,Batting,Bangladesh,Cold
+538,10,YS Chahal,50,0,0,0,0,Headingley,Away,0,0,0,7.8,Batting,Bangladesh,Cold
+539,11,J Bumrah,58,0,0,0,0,Headingley,Away,0,0,0,4.3,Batting,Bangladesh,Cold
+540,1,RR Pant,12,32,4,0,57.14,Old Trafford,Away,2,0,0,37.55,Bowling,New zealand,Cold
+541,2,RG Sharma,218,1,0,0,25,Old Trafford,Away,0,42,27,48.53,Bowling,New zealand,Cold
+542,3,V Kohli,239,1,0,0,16.67,Old Trafford,Away,0,54,43,60.31,Bowling,New zealand,Cold
+543,4,KL Rahul,133,1,0,0,14.29,Old Trafford,Away,0,4,2,43.32,Bowling,New zealand,Cold
+544,5,MS Dhoni,350,50,1,1,69.44,Old Trafford,Away,3,73,10,50.42,Bowling,New zealand,Cold
+545,6,H Pandya,54,32,2,0,51.61,Old Trafford,Away,2,4,0,34.53,Bowling,New zealand,Cold
+546,7,D Karthik,94,6,1,0,24,Old Trafford,Away,0,9,0,30.21,Bowling,New zealand,Cold
+547,8,B Kumar,114,0,0,0,0,Old Trafford,Away,0,1,0,14.22,Bowling,New zealand,Cold
+548,9,RA Jadeja,156,77,4,4,130.51,Old Trafford,Away,4,11,0,30.84,Bowling,New zealand,Cold
+549,10,YS Chahal,50,5,1,0,100,Old Trafford,Away,0,0,0,7.8,Bowling,New zealand,Cold
+550,11,J Bumrah,58,0,0,0,0,Old Trafford,Away,0,0,0,4.3,Bowling,New zealand,Cold
+551,1,A Rayudu,55,13,2,0,68.42,Hyderabad,Home,1,10,3,37.55,Batting,West Indies,Hot and humid
+552,2,RG Sharma,218,37,5,0,56.06,Hyderabad,Home,2,42,27,48.53,Batting,West Indies,Hot and humid
+553,3,V Kohli,239,44,6,1,97.77,Hyderabad,Home,2,54,43,60.31,Batting,West Indies,Hot and humid
+554,4,S Dhawan,133,0,0,0,0,Hyderabad,Home,0,27,17,43.32,Batting,West Indies,Hot and humid
+555,5,MS Dhoni,350,59,6,1,81.94,Hyderabad,Home,3,73,10,50.42,Batting,West Indies,Hot and humid
+556,6,K Yadav,70,0,0,0,0,Hyderabad,Home,0,0,0,34.53,Batting,West Indies,Hot and humid
+557,7,KM Jadhav,68,81,9,1,93.1,Hyderabad,Home,4,6,2,30.21,Batting,West Indies,Hot and humid
+558,8,V Shankar,12,0,0,0,0,Hyderabad,Home,0,0,0,14.22,Batting,West Indies,Hot and humid
+559,9,RA Jadeja,156,0,0,0,0,Hyderabad,Home,0,0,0,30.84,Batting,West Indies,Hot and humid
+560,10,M SHami,70,0,0,0,0,Hyderabad,Home,0,0,0,7.8,Batting,West Indies,Hot and humid
+561,11,J Bumrah,58,0,0,0,0,Hyderabad,Home,0,0,0,4.3,Batting,West Indies,Hot and humid
+562,1,A Rayudu,55,18,2,0,56.25,Vidharbha,Home,1,10,3,37.55,Batting,West Indies,Hot and humid
+563,2,RG Sharma,218,0,0,0,0,Vidharbha,Home,0,42,27,48.53,Batting,West Indies,Hot and humid
+564,3,V Kohli,239,116,10,0,96.67,Vidharbha,Home,5,54,43,60.31,Batting,West Indies,Hot and humid
+565,4,S Dhawan,133,21,4,0,72.51,Vidharbha,Home,1,27,17,43.32,Batting,West Indies,Hot and humid
+566,5,MS Dhoni,350,0,0,0,0,Vidharbha,Home,0,73,10,50.42,Batting,West Indies,Hot and humid
+567,6,K Yadav,70,3,0,0,100,Vidharbha,Home,0,0,0,34.53,Batting,West Indies,Hot and humid
+568,7,KM Jadhav,68,11,1,0,96.64,Vidharbha,Home,1,6,2,30.21,Batting,West Indies,Hot and humid
+569,8,V Shankar,12,46,5,1,112.54,Vidharbha,Home,2,0,0,14.22,Batting,West Indies,Hot and humid
+570,9,RA Jadeja,156,21,0,0,52.54,Vidharbha,Home,1,0,0,30.84,Batting,West Indies,Hot and humid
+571,10,M SHami,70,2,0,0,50,Vidharbha,Home,0,0,0,7.8,Batting,West Indies,Hot and humid
+572,11,J Bumrah,58,0,0,0,0,Vidharbha,Home,0,0,0,4.3,Batting,West Indies,Hot and humid
+573,1,A Rayudu,55,2,0,0,25,Ranchi,Home,0,10,3,37.55,Slow and low,South Africa,Hot and humid
+574,2,RG Sharma,218,14,2,1,100,Ranchi,Home,1,42,27,48.53,Slow and low,South Africa,Hot and humid
+575,3,V Kohli,239,123,16,1,129.47,Ranchi,Home,5,54,43,60.31,Slow and low,South Africa,Hot and humid
+576,4,S Dhawan,133,1,0,0,10,Ranchi,Home,0,27,17,43.32,Slow and low,South Africa,Hot and humid
+577,5,MS Dhoni,350,26,2,1,61.9,Ranchi,Home,1,73,10,50.42,Slow and low,South Africa,Hot and humid
+578,6,K Yadav,70,10,1,0,62.5,Ranchi,Home,1,0,0,34.53,Slow and low,South Africa,Hot and humid
+579,7,KM Jadhav,68,26,3,0,66.67,Ranchi,Home,1,6,2,30.21,Slow and low,South Africa,Hot and humid
+580,8,V Shankar,12,32,4,0,106.67,Ranchi,Home,2,0,0,14.22,Slow and low,South Africa,Hot and humid
+581,9,RA Jadeja,156,24,0,1,77.67,Ranchi,Home,1,0,0,30.84,Slow and low,South Africa,Hot and humid
+582,10,M SHami,70,8,2,0,200,Ranchi,Home,0,0,0,7.8,Slow and low,South Africa,Hot and humid
+583,11,J Bumrah,58,0,0,0,0,Ranchi,Home,0,0,0,4.3,Slow and low,South Africa,Hot and humid
+584,1,RR Pant,12,36,4,1,150,Chandigarh,Home,2,0,0,37.55,Pace and Bounce,Sri Lanka,Hot and humid
+585,2,RG Sharma,218,95,7,2,103.26,Chandigarh,Home,4,42,27,48.53,Pace and Bounce,Sri Lanka,Hot and humid
+586,3,V Kohli,239,7,1,0,116.67,Chandigarh,Home,0,54,43,60.31,Pace and Bounce,Sri Lanka,Hot and humid
+587,4,S Dhawan,133,143,18,3,124.34,Chandigarh,Home,5,27,17,43.32,Pace and Bounce,Sri Lanka,Hot and humid
+588,5,B Kumar,114,1,0,0,50,Chandigarh,Home,0,1,0,50.42,Pace and Bounce,Sri Lanka,Hot and humid
+589,6,K Yadav,70,1,0,0,100,Chandigarh,Home,0,0,0,34.53,Pace and Bounce,Sri Lanka,Hot and humid
+590,7,KM Jadhav,68,10,0,0,83,Chandigarh,Home,1,6,2,30.21,Pace and Bounce,Sri Lanka,Hot and humid
+591,8,V Shankar,12,26,1,2,173.33,Chandigarh,Home,1,0,0,14.22,Pace and Bounce,Sri Lanka,Hot and humid
+592,9,RA Jadeja,156,1,0,0,100,Chandigarh,Home,0,0,0,30.84,Pace and Bounce,Sri Lanka,Hot and humid
+593,10,M SHami,70,0,0,0,0,Chandigarh,Home,0,0,0,7.8,Pace and Bounce,Sri Lanka,Hot and humid
+594,11,J Bumrah,58,0,0,0,0,Chandigarh,Home,0,0,0,4.3,Pace and Bounce,Sri Lanka,Hot and humid
+595,1,RR Pant,12,16,1,1,100,Delhi,Home,1,0,0,37.55,Batting,Australia,Hot and humid
+596,2,RG Sharma,218,56,4,0,62.92,Delhi,Home,3,42,27,48.53,Batting,Australia,Hot and humid
+597,3,V Kohli,239,20,2,0,90.91,Delhi,Home,1,54,43,60.31,Batting,Australia,Hot and humid
+598,4,S Dhawan,133,12,2,0,80,Delhi,Home,1,27,17,43.32,Batting,Australia,Hot and humid
+599,5,B Kumar,114,46,3,2,85.91,Delhi,Home,2,1,0,50.42,Batting,Australia,Hot and humid
+600,6,K Yadav,70,8,1,0,66.34,Delhi,Home,0,0,0,34.53,Batting,Australia,Hot and humid
+601,7,KM Jadhav,68,44,4,1,77.56,Delhi,Home,2,6,2,30.21,Batting,Australia,Hot and humid
+602,8,V Shankar,12,16,0,1,76.91,Delhi,Home,1,0,0,14.22,Batting,Australia,Hot and humid
+603,9,RA Jadeja,114,0,0,0,0,Delhi,Home,0,0,0,30.84,Batting,Australia,Hot and humid
+604,10,M SHami,70,3,0,0,42.24,Delhi,Home,0,0,0,7.8,Batting,Australia,Hot and humid
+605,11,J Bumrah,58,1,0,0,25,Delhi,Home,0,0,0,4.3,Batting,Australia,Hot and humid

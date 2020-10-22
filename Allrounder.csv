@@ -1,0 +1,246 @@
+ Sr.No.,Name,Matches Played,Wickets,Runs Scored,Home Strike Rate,Away Strike Rate,Home Average,Away Average,Ground,Home Away,Opponent,Weather,Pitch,Result
+1,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Trinidad,Away,West Indies,Hot and humid,Slow,0
+2,KM Jadhav,73,27,16,103.81,99.05,42.39,41.73,Trinidad,Away,West Indies,Hot and humid,Slow,0
+3,RA Jadeja,165,187,16,84.2,86.89,27.79,34.5,Trinidad,Away,West Indies,Hot and humid,Slow,0
+4,H Pandya,54,54,15,111.82,119.19,37.83,25.15,Trinidad,Away,West Indies,Hot and humid,Slow,0
+5,V Shankar,12,4,15,112.15,74.1,30,34.33,Trinidad,Away,West Indies,Hot and humid,Slow,0
+6,KM Jadhav,73,27,19,103.81,99.05,42.39,41.73,Trinidad,Away,West Indies,Hot and humid,Slow,0
+7,RA Jadeja,165,187,8,84.2,86.89,27.79,34.5,Trinidad,Away,West Indies,Hot and humid,Slow,0
+8,H Pandya,54,54,48,111.82,119.19,37.83,25.15,Trinidad,Away,West Indies,Hot and humid,Slow,1
+9,V Shankar,12,4,14,112.15,74.1,30,34.33,Southampton,Away,South Africa,Cold,Batting,0
+10,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Southampton,Away,South Africa,Cold,Batting,0
+11,RA Jadeja,165,187,55,84.2,86.89,27.79,34.5,Southampton,Away,South Africa,Cold,Batting,1
+12,H Pandya,54,54,26,111.82,119.19,37.83,25.15,Southampton,Away,South Africa,Cold,Batting,1
+13,V Shankar,12,4,29,112.15,74.1,30,34.33,Southampton,Away,Sri Lanka,Cold,Bounce and Pace,1
+14,KM Jadhav,73,27,9,103.81,99.05,42.39,41.73,The Oval,Away,Sri Lanka,Cold,Bounce and Pace,0
+15,RA Jadeja,165,187,20,84.2,86.89,27.79,34.5,The Oval,Away,Sri Lanka,Cold,Bounce and Pace,0
+16,H Pandya,54,54,32,111.82,119.19,37.83,25.15,The Oval,Away,Sri Lanka,Cold,Bounce and Pace,1
+17,V Shankar,12,4,15,112.15,74.1,30,34.33,The Oval,Away,Sri Lanka,Cold,Bounce and Pace,0
+18,KM Jadhav,73,27,16,103.81,99.05,42.39,41.73,The Oval,Away,Sri Lanka,Cold,Bounce and Pace,0
+19,RA Jadeja,165,187,25,84.2,86.89,27.79,34.5,Old Trafford,Away,Sri Lanka,Cold,Bounce and Pace,1
+20,H Pandya,54,54,7,111.82,119.19,37.83,25.15,Old Trafford,Away,Sri Lanka,Cold,Bounce and Pace,0
+21,V Shankar,12,4,16,112.15,74.1,30,34.33,Old Trafford,Away,Sri Lanka,Cold,Bounce and Pace,0
+22,KM Jadhav,73,27,40,103.81,99.05,42.39,41.73,Southampton,Away,Sri Lanka,Cold,Bounce and Pace,1
+23,RA Jadeja,165,187,39,84.2,86.89,27.79,34.5,Southampton,Away,Sri Lanka,Cold,Bounce and Pace,1
+24,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Southampton,Away,Australia,Cold,Bowling,0
+25,V Shankar,12,4,26,112.15,74.1,30,34.33,Southampton,Away,Australia,Cold,Bowling,1
+26,KM Jadhav,73,27,19,103.81,99.05,42.39,41.73,Old Trafford,Away,Australia,Cold,Bowling,0
+27,RA Jadeja,165,187,21,84.2,86.89,27.79,34.5,Old Trafford,Away,Australia,Cold,Bowling,1
+28,H Pandya,54,54,45,111.82,119.19,37.83,25.15,Old Trafford,Away,Australia,Cold,Bowling,1
+29,V Shankar,12,4,32,112.15,74.1,30,34.33,Old Trafford,Away,Australia,Cold,Bowling,1
+30,KM Jadhav,73,27,16,103.81,99.05,42.39,41.73,Edgbaston,Away,Australia,Cold,Bowling,0
+31,RA Jadeja,165,187,77,84.2,86.89,27.79,34.5,Edgbaston,Away,Australia,Cold,Bowling,1
+32,H Pandya,54,54,46,111.82,119.19,37.83,25.15,Edgbaston,Away,Australia,Cold,Bowling,1
+33,V Shankar,12,4,46,112.15,74.1,30,34.33,Edgbaston,Away,Australia,Cold,Bowling,1
+34,KM Jadhav,73,27,12,103.81,99.05,42.39,41.73,Edgbaston,Away,Australia,Cold,Bowling,0
+35,RA Jadeja,165,187,8,84.2,86.89,27.79,34.5,Edgbaston,Away,West Indies,Cold,Batting,0
+36,H Pandya,54,54,7,111.82,119.19,37.83,25.15,Edgbaston,Away,West Indies,Cold,Batting,0
+37,V Shankar,12,4,0,112.15,74.1,30,34.33,Edgbaston,Away,West Indies,Cold,Batting,0
+38,KM Jadhav,73,27,7,103.81,99.05,42.39,41.73,Edgbaston,Away,West Indies,Cold,Batting,0
+39,RA Jadeja,165,187,16,84.2,86.89,27.79,34.5,Edgbaston,Away,West Indies,Cold,Batting,0
+40,H Pandya,54,54,26,111.82,119.19,37.83,25.15,Edgbaston,Away,West Indies,Cold,Batting,1
+41,V Shankar,12,4,45,112.15,74.1,30,34.33,Edgbaston,Away,West Indies,Cold,Batting,1
+42,KM Jadhav,73,27,52,103.81,99.05,42.39,41.73,Edgbaston,Away,West Indies,Cold,Batting,1
+43,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Edgbaston,Away,West Indies,Cold,Batting,0
+44,H Pandya,54,54,48,111.82,119.19,37.83,25.15,Edgbaston,Away,West Indies,Cold,Batting,1
+45,V Shankar,12,4,0,112.15,74.1,30,34.33,Headingley,Away,West Indies,Cold,Batting,0
+46,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Headingley,Away,England,Cold,Bowling,0
+47,RA Jadeja,165,187,14,84.2,86.89,27.79,34.5,Headingley,Away,England,Cold,Bowling,0
+48,H Pandya,54,54,14,111.82,119.19,37.83,25.15,Headingley,Away,England,Cold,Bowling,0
+49,V Shankar,12,4,13,112.15,74.1,30,34.33,Headingley,Away,England,Cold,Bowling,0
+50,RA Jadeja,165,187,13,84.2,86.89,27.79,34.5,Old Trafford,Away,England,Cold,Bowling,0
+51,KM Jadhav,73,27,17,103.81,99.05,42.39,41.73,Old Trafford,Away,England,Cold,Bowling,0
+52,RA Jadeja,165,187,6,84.2,86.89,27.79,34.5,Old Trafford,Away,England,Cold,Bowling,0
+53,H Pandya,54,54,46,111.82,119.19,37.83,25.15,Old Trafford,Away,England,Cold,Bowling,1
+54,V Shankar,12,4,12,112.15,74.1,30,34.33,Old Trafford,Away,England,Cold,Bowling,0
+55,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Old Trafford,Away,England,Cold,Bowling,0
+56,RA Jadeja,165,187,53,84.2,86.89,27.79,34.5,Old Trafford,Away,England,Cold,Bowling,1
+57,H Pandya,54,54,24,111.82,119.19,37.83,25.15,Old Trafford,Away,Afghanistan,Cold,Bowling,1
+58,V Shankar,12,4,27,112.15,74.1,30,34.33,Old Trafford,Away,Afghanistan,Cold,Bowling,1
+59,KM Jadhav,73,27,7,103.81,99.05,42.39,41.73,Old Trafford,Away,Afghanistan,Cold,Bowling,0
+60,RA Jadeja,165,187,18,84.2,86.89,27.79,34.5,Hyderabad,Home,Afghanistan,Cold,Bowling,0
+61,H Pandya,54,54,30,111.82,119.19,37.83,25.15,Hyderabad,Home,Afghanistan,Cold,Bowling,1
+62,V Shankar,12,4,13,112.15,74.1,30,34.33,Hyderabad,Home,Afghanistan,Cold,Bowling,0
+63,KM Jadhav,73,27,14,103.81,99.05,42.39,41.73,Hyderabad,Home,Afghanistan,Cold,Bowling,0
+64,RA Jadeja,165,187,23,84.2,86.89,27.79,34.5,Hyderabad,Home,Afghanistan,Cold,Bowling,1
+65,H Pandya,54,54,5,111.82,119.19,37.83,25.15,Hyderabad,Home,Afghanistan,Cold,Bowling,0
+66,V Shankar,12,4,14,112.15,74.1,30,34.33,Hyderabad,Home,Afghanistan,Cold,Bowling,0
+67,KM Jadhav,73,27,38,103.81,99.05,42.39,41.73,Hyderabad,Home,Afghanistan,Cold,Bowling,1
+68,RA Jadeja,165,187,37,84.2,86.89,27.79,34.5,Hyderabad,Home,Bangladseh,Cold,Bowling,1
+69,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Hyderabad,Home,Bangladseh,Cold,Bowling,0
+70,V Shankar,12,4,24,112.15,74.1,30,34.33,Vidharbha,Home,Bangladseh,Cold,Bowling,1
+71,KM Jadhav,73,27,17,103.81,99.05,42.39,41.73,Vidharbha,Home,Bangladseh,Cold,Bowling,0
+72,RA Jadeja,165,187,19,84.2,86.89,27.79,34.5,Vidharbha,Home,Bangladseh,Cold,Bowling,0
+73,H Pandya,54,54,43,111.82,119.19,37.83,25.15,Vidharbha,Home,Bangladseh,Cold,Bowling,1
+74,V Shankar,12,4,30,112.15,74.1,30,34.33,Vidharbha,Home,Bangladseh,Cold,Bowling,1
+75,KM Jadhav,73,27,14,103.81,99.05,42.39,41.73,Ranchi,Home,Bangladseh,Cold,Bowling,0
+76,RA Jadeja,165,187,75,84.2,86.89,27.79,34.5,Ranchi,Home,Bangladseh,Cold,Bowling,1
+77,H Pandya,54,54,44,111.82,119.19,37.83,25.15,Ranchi,Home,Bangladseh,Cold,Bowling,1
+78,V Shankar,12,4,44,112.15,74.1,30,34.33,Ranchi,Home,Bangladseh,Cold,Bowling,1
+79,KM Jadhav,73,27,10,103.81,99.05,42.39,41.73,Chandigarh,Home,New zealand,Cold,Bowling,0
+80,RA Jadeja,165,187,6,84.2,86.89,27.79,34.5,Chandigarh,Home,New zealand,Cold,Bowling,0
+81,H Pandya,54,54,5,111.82,119.19,37.83,25.15,Chandigarh,Home,New zealand,Cold,Bowling,0
+82,V Shankar,12,4,0,112.15,74.1,30,34.33,Delhi,Home,New zealand,Cold,Bowling,0
+83,KM Jadhav,73,27,5,103.81,99.05,42.39,41.73,Delhi,Home,New zealand,Cold,Bowling,0
+84,RA Jadeja,165,187,14,84.2,86.89,27.79,34.5,Delhi,Home,New zealand,Cold,Bowling,0
+85,H Pandya,54,54,24,111.82,119.19,37.83,25.15,Delhi,Home,New zealand,Cold,Bowling,1
+86,V Shankar,12,4,43,112.15,74.1,30,34.33,Old Trafford,Away,New zealand,Cold,Bowling,1
+87,KM Jadhav,73,27,50,103.81,99.05,42.39,41.73,Old Trafford,Away,New zealand,Cold,Bowling,1
+88,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Old Trafford,Away,New zealand,Cold,Bowling,0
+89,H Pandya,54,54,46,111.82,119.19,37.83,25.15,Old Trafford,Away,New zealand,Cold,Bowling,1
+90,V Shankar,12,4,0,112.15,74.1,30,34.33,Old Trafford,Away,West Indies,Cold,Batting,0
+91,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Batting,0
+92,RA Jadeja,165,187,12,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Cold,Batting,0
+93,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Batting,0
+94,V Shankar,12,4,12,112.15,74.1,30,34.33,Southampton,Away,West Indies,Cold,Batting,0
+95,KM Jadhav,73,27,12,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Batting,0
+96,RA Jadeja,165,187,11,84.2,86.89,27.79,34.5,Old Trafford,Away,West Indies,Cold,Batting,0
+97,H Pandya,54,54,11,111.82,119.19,37.83,25.15,Old Trafford,Away,West Indies,Cold,Batting,0
+98,V Shankar,12,4,15,112.15,74.1,30,34.33,Old Trafford,Away,West Indies,Cold,Batting,0
+99,RA Jadeja,165,187,4,84.2,86.89,27.79,34.5,Old Trafford,Away,West Indies,Cold,Batting,0
+100,KM Jadhav,73,27,44,103.81,99.05,42.39,41.73,Old Trafford,Away,West Indies,Cold,Batting,1
+101,RA Jadeja,165,187,10,84.2,86.89,27.79,34.5,The Oval,Away,West Indies,Cold,Bowling,0
+102,H Pandya,54,54,0,111.82,119.19,37.83,25.15,The Oval,Away,West Indies,Cold,Bowling,0
+103,V Shankar,12,4,51,112.15,74.1,30,34.33,The Oval,Away,West Indies,Cold,Bowling,1
+104,KM Jadhav,73,27,22,103.81,99.05,42.39,41.73,The Oval,Away,West Indies,Cold,Bowling,1
+105,RA Jadeja,165,187,25,84.2,86.89,27.79,34.5,The Oval,Away,West Indies,Cold,Bowling,1
+106,H Pandya,54,54,5,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Bowling,0
+107,V Shankar,12,4,16,112.15,74.1,30,34.33,Southampton,Away,West Indies,Cold,Bowling,0
+108,KM Jadhav,73,27,28,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Bowling,1
+109,RA Jadeja,165,187,11,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Cold,Bowling,0
+110,H Pandya,54,54,12,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Bowling,0
+111,V Shankar,12,4,21,112.15,74.1,30,34.33,Trinidad,Away,West Indies,Cold,Bowling,1
+112,KM Jadhav,73,27,3,103.81,99.05,42.39,41.73,Trinidad,Away,South Africa,Hot and humid,Batting,0
+113,RA Jadeja,165,187,12,84.2,86.89,27.79,34.5,Trinidad,Away,South Africa,Hot and humid,Batting,0
+114,H Pandya,54,54,36,111.82,119.19,37.83,25.15,Trinidad,Away,South Africa,Hot and humid,Batting,1
+115,V Shankar,12,4,35,112.15,74.1,30,34.33,Trinidad,Away,South Africa,Hot and humid,Batting,1
+116,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Trinidad,Away,South Africa,Hot and humid,Batting,0
+117,RA Jadeja,165,187,22,84.2,86.89,27.79,34.5,Trinidad,Away,South Africa,Hot and humid,Batting,1
+118,H Pandya,54,54,15,111.82,119.19,37.83,25.15,Trinidad,Away,South Africa,Hot and humid,Batting,0
+119,V Shankar,12,4,17,112.15,74.1,30,34.33,Trinidad,Away,South Africa,Hot and humid,Batting,0
+120,KM Jadhav,73,27,41,103.81,99.05,42.39,41.73,Trinidad,Away,South Africa,Hot and humid,Batting,1
+121,RA Jadeja,165,187,28,84.2,86.89,27.79,34.5,Old Trafford,Away,South Africa,Hot and humid,Batting,1
+122,H Pandya,54,54,12,111.82,119.19,37.83,25.15,Old Trafford,Away,South Africa,Hot and humid,Batting,0
+123,V Shankar,12,4,73,112.15,74.1,30,34.33,Old Trafford,Away,Sri Lanka,Hot and humid,Batting,1
+124,KM Jadhav,73,27,42,103.81,99.05,42.39,41.73,Old Trafford,Away,Sri Lanka,Hot and humid,Batting,1
+125,RA Jadeja,165,187,42,84.2,86.89,27.79,34.5,Old Trafford,Away,Sri Lanka,Hot and humid,Batting,1
+126,H Pandya,54,54,8,111.82,119.19,37.83,25.15,Headingley,Away,Sri Lanka,Hot and humid,Batting,0
+127,V Shankar,12,4,4,112.15,74.1,30,34.33,Headingley,Away,Sri Lanka,Hot and humid,Batting,0
+128,KM Jadhav,73,27,3,103.81,99.05,42.39,41.73,Headingley,Away,Sri Lanka,Hot and humid,Batting,0
+129,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Headingley,Away,Sri Lanka,Hot and humid,Batting,0
+130,H Pandya,54,54,3,111.82,119.19,37.83,25.15,Headingley,Away,Sri Lanka,Hot and humid,Batting,0
+131,V Shankar,12,4,12,112.15,74.1,30,34.33,Edgbaston,Away,Sri Lanka,Hot and humid,Batting,0
+132,KM Jadhav,73,27,22,103.81,99.05,42.39,41.73,Edgbaston,Away,Sri Lanka,Hot and humid,Batting,1
+133,RA Jadeja,165,187,41,84.2,86.89,27.79,34.5,Edgbaston,Away,Sri Lanka,Hot and humid,Batting,1
+134,H Pandya,54,54,48,111.82,119.19,37.83,25.15,Edgbaston,Away,Australia,Hot and humid,Slow and low,1
+135,V Shankar,12,4,0,112.15,74.1,30,34.33,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+136,KM Jadhav,73,27,44,103.81,99.05,42.39,41.73,Edgbaston,Away,Australia,Hot and humid,Slow and low,1
+137,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+138,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+139,V Shankar,12,4,0,112.15,74.1,30,34.33,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+140,KM Jadhav,73,27,13,103.81,99.05,42.39,41.73,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+141,RA Jadeja,165,187,13,84.2,86.89,27.79,34.5,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+142,H Pandya,54,54,12,111.82,119.19,37.83,25.15,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+143,V Shankar,12,4,12,112.15,74.1,30,34.33,Edgbaston,Away,Australia,Hot and humid,Slow and low,0
+144,KM Jadhav,73,27,16,103.81,99.05,42.39,41.73,Southampton,Away,Australia,Hot and humid,Slow and low,0
+145,RA Jadeja,165,187,5,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Hot and humid,Pace and Bounce,0
+146,H Pandya,54,54,45,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Hot and humid,Pace and Bounce,1
+147,V Shankar,12,4,11,112.15,74.1,30,34.33,Southampton,Away,West Indies,Hot and humid,Pace and Bounce,0
+148,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Hot and humid,Pace and Bounce,0
+149,KM Jadhav,73,27,52,103.81,99.05,42.39,41.73,Old Trafford,Away,West Indies,Hot and humid,Pace and Bounce,1
+150,RA Jadeja,165,187,23,84.2,86.89,27.79,34.5,Old Trafford,Away,West Indies,Hot and humid,Pace and Bounce,1
+151,H Pandya,54,54,26,111.82,119.19,37.83,25.15,Old Trafford,Away,West Indies,Hot and humid,Pace and Bounce,1
+152,V Shankar,12,4,6,112.15,74.1,30,34.33,Old Trafford,Away,West Indies,Hot and humid,Pace and Bounce,0
+153,KM Jadhav,73,27,17,103.81,99.05,42.39,41.73,Old Trafford,Away,West Indies,Hot and humid,Pace and Bounce,0
+154,RA Jadeja,165,187,29,84.2,86.89,27.79,34.5,The Oval,Away,West Indies,Hot and humid,Pace and Bounce,1
+155,H Pandya,54,54,12,111.82,119.19,37.83,25.15,The Oval,Away,West Indies,Hot and humid,Pace and Bounce,0
+156,V Shankar,12,4,13,112.15,74.1,30,34.33,The Oval,Away,England,Hot and humid,Batting,0
+157,KM Jadhav,73,27,22,103.81,99.05,42.39,41.73,The Oval,Away,England,Hot and humid,Batting,1
+158,RA Jadeja,165,187,4,84.2,86.89,27.79,34.5,The Oval,Away,England,Hot and humid,Batting,0
+159,H Pandya,54,54,13,111.82,119.19,37.83,25.15,Southampton,Away,England,Hot and humid,Batting,0
+160,V Shankar,12,4,37,112.15,74.1,30,34.33,Southampton,Away,England,Hot and humid,Batting,1
+161,KM Jadhav,73,27,36,103.81,99.05,42.39,41.73,Southampton,Away,England,Hot and humid,Batting,1
+162,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Southampton,Away,England,Hot and humid,Batting,0
+163,H Pandya,54,54,23,111.82,119.19,37.83,25.15,Southampton,Away,England,Hot and humid,Batting,1
+164,V Shankar,12,4,16,112.15,74.1,30,34.33,McLean Park,Away,England,Hot and humid,Swinging,0
+165,KM Jadhav,73,27,18,103.81,99.05,42.39,41.73,McLean Park,Away,England,Hot and humid,Swinging,0
+166,RA Jadeja,165,187,42,84.2,86.89,27.79,34.5,McLean Park,Away,England,Hot and humid,Swinging,1
+167,H Pandya,54,54,29,111.82,119.19,37.83,25.15,McLean Park,Away,Afghanistan,Cold,Swinging,1
+168,V Shankar,12,4,13,112.15,74.1,30,34.33,McLean Park,Away,Afghanistan,Cold,Swinging,0
+169,KM Jadhav,73,27,74,103.81,99.05,42.39,41.73,Bay Oval,Away,Afghanistan,Cold,Bowling,1
+170,RA Jadeja,165,187,43,84.2,86.89,27.79,34.5,Bay Oval,Away,Afghanistan,Cold,Bowling,1
+171,H Pandya,54,54,43,111.82,119.19,37.83,25.15,Bay Oval,Away,Afghanistan,Cold,Bowling,1
+172,V Shankar,12,4,9,112.15,74.1,30,34.33,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+173,KM Jadhav,73,27,5,103.81,99.05,42.39,41.73,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+174,RA Jadeja,165,187,4,84.2,86.89,27.79,34.5,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+175,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+176,V Shankar,12,4,4,112.15,74.1,30,34.33,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+177,KM Jadhav,73,27,13,103.81,99.05,42.39,41.73,Bay Oval,Away,Afghanistan,Cold,Bowling,0
+178,RA Jadeja,165,187,23,84.2,86.89,27.79,34.5,Bay Oval,Away,Bangladseh,Cold,Batting,1
+179,H Pandya,54,54,42,111.82,119.19,37.83,25.15,Seddon Park,Away,Bangladseh,Cold,Batting,1
+180,V Shankar,12,4,49,112.15,74.1,30,34.33,Seddon Park,Away,Bangladseh,Cold,Batting,1
+181,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Seddon Park,Away,Bangladseh,Cold,Batting,0
+182,RA Jadeja,165,187,45,84.2,86.89,27.79,34.5,Wellington,Away,Bangladseh,Cold,Batting,1
+183,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Wellington,Away,Bangladseh,Cold,Batting,0
+184,V Shankar,12,4,0,112.15,74.1,30,34.33,Wellington,Away,Bangladseh,Cold,Batting,0
+185,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Wellington,Away,Bangladseh,Cold,Batting,0
+186,RA Jadeja,165,187,11,84.2,86.89,27.79,34.5,Wellington,Away,Bangladseh,Cold,Batting,0
+187,H Pandya,54,54,11,111.82,119.19,37.83,25.15,Wellington,Away,Bangladseh,Cold,Batting,0
+188,V Shankar,12,4,10,112.15,74.1,30,34.33,Wellington,Away,Bangladseh,Cold,Batting,0
+189,KM Jadhav,73,27,10,103.81,99.05,42.39,41.73,Wellington,Away,New zealand,Cold,Bowling,0
+190,RA Jadeja,165,187,14,84.2,86.89,27.79,34.5,Wellington,Away,New zealand,Cold,Bowling,0
+191,H Pandya,54,54,3,111.82,119.19,37.83,25.15,Trinidad,Away,New zealand,Cold,Bowling,0
+192,V Shankar,12,4,43,112.15,74.1,30,34.33,Trinidad,Away,New zealand,Cold,Bowling,1
+193,KM Jadhav,73,27,9,103.81,99.05,42.39,41.73,Trinidad,Away,New zealand,Cold,Bowling,0
+194,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Trinidad,Away,New zealand,Cold,Bowling,0
+195,H Pandya,54,54,50,111.82,119.19,37.83,25.15,Trinidad,Away,New zealand,Cold,Bowling,1
+196,V Shankar,12,4,21,112.15,74.1,30,34.33,Old Trafford,Away,New zealand,Cold,Bowling,1
+197,RA Jadeja,165,187,24,84.2,86.89,27.79,34.5,Old Trafford,Away,New zealand,Cold,Bowling,1
+198,KM Jadhav,73,27,4,103.81,99.05,42.39,41.73,Old Trafford,Away,New zealand,Cold,Bowling,0
+199,RA Jadeja,165,187,15,84.2,86.89,27.79,34.5,Old Trafford,Away,New zealand,Cold,Bowling,0
+200,H Pandya,54,54,27,111.82,119.19,37.83,25.15,Headingley,Away,West Indies,Cold,Bounce and Pace,1
+201,V Shankar,12,4,10,112.15,74.1,30,34.33,Headingley,Away,West Indies,Cold,Bounce and Pace,0
+202,KM Jadhav,73,27,11,103.81,99.05,42.39,41.73,Headingley,Away,West Indies,Cold,Bounce and Pace,0
+203,RA Jadeja,165,187,20,84.2,86.89,27.79,34.5,Headingley,Away,West Indies,Cold,Bounce and Pace,0
+204,H Pandya,54,54,2,111.82,119.19,37.83,25.15,Old Trafford,Away,West Indies,Cold,Bounce and Pace,0
+205,V Shankar,12,4,11,112.15,74.1,30,34.33,Old Trafford,Away,West Indies,Cold,Bounce and Pace,0
+206,KM Jadhav,73,27,35,103.81,99.05,42.39,41.73,Old Trafford,Away,West Indies,Cold,Bounce and Pace,1
+207,RA Jadeja,165,187,34,84.2,86.89,27.79,34.5,Old Trafford,Away,West Indies,Cold,Bounce and Pace,1
+208,H Pandya,54,54,0,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Bounce and Pace,0
+209,V Shankar,12,4,21,112.15,74.1,30,34.33,Southampton,Away,West Indies,Cold,Bounce and Pace,1
+210,KM Jadhav,73,27,14,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Bounce and Pace,0
+211,RA Jadeja,165,187,16,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Cold,Batting,0
+212,H Pandya,54,54,40,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Batting,1
+213,V Shankar,12,4,27,112.15,74.1,30,34.33,Southampton,Away,West Indies,Cold,Batting,1
+214,KM Jadhav,73,27,11,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Batting,0
+215,RA Jadeja,165,187,72,84.2,86.89,27.79,34.5,Southampton,Away,West Indies,Cold,Batting,1
+216,H Pandya,54,54,41,111.82,119.19,37.83,25.15,Southampton,Away,West Indies,Cold,Batting,1
+217,V Shankar,12,4,41,112.15,74.1,30,34.33,Southampton,Away,West Indies,Cold,Batting,1
+218,KM Jadhav,73,27,7,103.81,99.05,42.39,41.73,Southampton,Away,West Indies,Cold,Batting,0
+219,RA Jadeja,165,187,3,84.2,86.89,27.79,34.5,Old Trafford,Away,West Indies,Cold,Batting,0
+220,H Pandya,54,54,2,111.82,119.19,37.83,25.15,Old Trafford,Away,West Indies,Cold,Batting,0
+221,V Shankar,12,4,0,112.15,74.1,30,34.33,Old Trafford,Away,West Indies,Cold,Batting,0
+222,KM Jadhav,73,27,2,103.81,99.05,42.39,41.73,Old Trafford,Away,South Africa,Cold,Slow,0
+223,RA Jadeja,165,187,11,84.2,86.89,27.79,34.5,Old Trafford,Away,South Africa,Cold,Slow,0
+224,H Pandya,54,54,21,111.82,119.19,37.83,25.15,Edgbaston,Away,South Africa,Cold,Slow,1
+225,V Shankar,12,4,40,112.15,74.1,30,34.33,Edgbaston,Away,South Africa,Cold,Slow,1
+226,KM Jadhav,73,27,47,103.81,99.05,42.39,41.73,Edgbaston,Away,South Africa,Cold,Slow,1
+227,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Edgbaston,Away,South Africa,Cold,Slow,0
+228,H Pandya,54,54,43,111.82,119.19,37.83,25.15,Edgbaston,Away,South Africa,Cold,Slow,1
+229,V Shankar,12,4,0,112.15,74.1,30,34.33,Edgbaston,Away,South Africa,Cold,Slow,0
+230,KM Jadhav,73,27,0,103.81,99.05,42.39,41.73,Edgbaston,Away,South Africa,Cold,Slow,0
+231,RA Jadeja,165,187,9,84.2,86.89,27.79,34.5,Edgbaston,Away,South Africa,Cold,Slow,0
+232,H Pandya,54,54,9,111.82,119.19,37.83,25.15,Edgbaston,Away,South Africa,Cold,Slow,0
+233,V Shankar,12,4,8,112.15,74.1,30,34.33,Edgbaston,Away,Sri Lanka,Cold,Slow,0
+234,KM Jadhav,73,27,8,103.81,99.05,42.39,41.73,Edgbaston,Away,Sri Lanka,Cold,Slow,0
+235,RA Jadeja,165,187,12,84.2,86.89,27.79,34.5,Edgbaston,Away,Sri Lanka,Cold,Slow,0
+236,H Pandya,54,54,1,111.82,119.19,37.83,25.15,Edgbaston,Away,Sri Lanka,Cold,Slow,0
+237,V Shankar,12,4,41,112.15,74.1,30,34.33,Edgbaston,Away,Sri Lanka,Cold,Slow,1
+238,KM Jadhav,73,27,7,103.81,99.05,42.39,41.73,Edgbaston,Away,Sri Lanka,Cold,Slow,0
+239,RA Jadeja,165,187,0,84.2,86.89,27.79,34.5,Headingley,Away,Sri Lanka,Cold,Slow,0
+240,H Pandya,54,54,43,111.82,119.19,37.83,25.15,Headingley,Away,Sri Lanka,Cold,Slow,1
+241,V Shankar,12,4,19,112.15,74.1,30,34.33,Headingley,Away,Sri Lanka,Cold,Slow,0
+242,KM Jadhav,73,27,22,103.81,99.05,42.39,41.73,Headingley,Away,Sri Lanka,Cold,Slow,1
+243,RA Jadeja,165,187,2,84.2,86.89,27.79,34.5,Headingley,Away,Sri Lanka,Cold,Slow,0
+244,H Pandya,54,54,13,111.82,119.19,37.83,25.15,Old Trafford,Away,Australia,Cold,Bowling,0
+245,V Shankar,12,4,25,112.15,74.1,30,34.33,Old Trafford,Away,Australia,Cold,Bowling,1
