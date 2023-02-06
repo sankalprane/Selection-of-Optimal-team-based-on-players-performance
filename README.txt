@@ -1,3 +1,1 @@
-bat.csv , ball.csv and AllRounder.csv are the three files used for training the data and model, model2 and model3 are the pickle files created respectively.
-To run the project just click on app.py and go to local host
-The app is created using Flask api
+![Main UI](https://drive.google.com/file/d/1yxUzq8xms0EI3ah8xtEiIEbPIvyPd-qs/view?usp=share_link)
