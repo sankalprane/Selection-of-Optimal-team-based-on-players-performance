@@ -5,13 +5,13 @@ import operator
 
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('batsman_model.pkl', 'rb'))
 
 app = Flask(__name__)
-model2 = pickle.load(open('model2.pkl', 'rb'))
+model2 = pickle.load(open('bowler_model.pkl', 'rb'))
 
 app = Flask(__name__)
-model3 = pickle.load(open('model3.pkl', 'rb'))
+model3 = pickle.load(open('allrounder_model.pkl', 'rb'))
 
 @app.route('/')
 def home():
