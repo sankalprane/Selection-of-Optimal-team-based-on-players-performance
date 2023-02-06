@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 
-df = pd.read_csv('bowl2.csv')
+df = pd.read_csv('bowl.csv')
 
 df.dropna(inplace=True)
 
@@ -29,8 +29,8 @@ rfmodel=RandomForestClassifier()
 rfmodel.fit(X, y)
 
 # Saving model to disk
-pickle.dump(rfmodel, open('model2.pkl','wb'))
+pickle.dump(rfmodel, open('bowler_model.pkl','wb'))
 
 # Loading model to compare the results
-model = pickle.load(open('model2.pkl','rb'))
+model = pickle.load(open('bowler_model.pkl','rb'))
 #print(model.predict([[2, 9, 6]]))

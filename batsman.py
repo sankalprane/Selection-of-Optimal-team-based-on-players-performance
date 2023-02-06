@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 
-df = pd.read_csv('Allrounder.csv')
+df = pd.read_csv('bat.csv')
 
 df.dropna(inplace=True)
 
@@ -15,13 +15,17 @@ opponent=pd.get_dummies(df['Opponent'])
 weather=pd.get_dummies(df['Weather'])
 homeaway=pd.get_dummies(df['Home Away'])
 
-df.drop([' Sr.No.','Home Away','Name','Ground','Pitch','Home Strike Rate','Away Strike Rate','Home Average','Away Average','Opponent','Weather'],axis=1,inplace=True)
+df.drop(['Home Away','Name','Sr.No.','Runs','Ground','Pitch','Fours','Sixes','Strike Rate','Opponent','Weather'],axis=1,inplace=True)
 
 df=pd.concat([df,ground,pitch,opponent,weather,homeaway],axis=1)
 
 X=df.drop('Result',axis=1)
 
 y=df['Result']
+
+#Splitting Training and Test Set
+#Since we have a very small dataset, we will train our model with all availabe data.
+
 
 from sklearn.ensemble import RandomForestClassifier
 rfmodel=RandomForestClassifier()
@@ -30,7 +34,7 @@ rfmodel=RandomForestClassifier()
 rfmodel.fit(X, y)
 
 # Saving model to disk
-pickle.dump(rfmodel, open('model3.pkl','wb'))
+pickle.dump(rfmodel, open('batsman_model.pkl','wb'))
 
 # Loading model to compare the results
-model = pickle.load(open('model3.pkl','rb'))
+model = pickle.load(open('batsman_model.pkl','rb'))
